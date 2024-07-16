@@ -17,6 +17,8 @@ This dataset is from Kaggle. Please refer to the link below:
 
 👁 Looker Studio Link - https://lnkd.in/g4fT8cw7
 
+👁 LINKED IN - https://www.linkedin.com/posts/shubham0024_titanic-survival-report-activity-7216086156537389056-Yf6T?utm_source=share&utm_medium=member_desktop
+
 🛠 Tools Used:
 
 MS Excel and Google Looker Studio: For Cleaning, Analytics and Visualization.
@@ -36,4 +38,6 @@ MS Excel and Google Looker Studio: For Cleaning, Analytics and Visualization.
 📢 The Survival rate among seniors is almost lowest. Only 5 out of 22 Senior Passengers have survived.
 
 📢 Fare Of First Class is Highest and Third Class is Lowest.
+
+
 
