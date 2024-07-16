@@ -1,0 +1,892 @@
+PassengerId,Survived,Survived2,Pclass,Pclass Fix,Last Name,First Name,Alias Name,Sex_male,Age,Age Bracket,SibSp,Parch,Family Members,Ticket,Fare,Cabin,Embarked,Embark Fix
+1,0,Not Survived,3,Third Class,Braund, Mr. Owen Harris,,Male,22,Youth,1,0,1,A/5 21171,7.25,,S,Southampton
+2,1,Survived,1,First Class,Cumings, Mrs. John Bradley ,Florence Briggs Thayer),Female,38,Adult,1,0,1,PC 17599,71.28,C85,C,Cherbourg
+3,1,Survived,3,Third Class,Heikkinen, Miss. Laina,,Female,26,Adult,0,0,0,STON/O2. 3101282,7.93,,S,Southampton
+4,1,Survived,1,First Class,Futrelle, Mrs. Jacques Heath ,Lily May Peel),Female,35,Adult,1,0,1,113803,53.1,C123,S,Southampton
+5,0,Not Survived,3,Third Class,Allen, Mr. William Henry,,Male,35,Adult,0,0,0,373450,8.05,,S,Southampton
+6,0,Not Survived,3,Third Class,Moran, Mr. James,,Male,30,Adult,0,0,0,330877,8.46,,Q,Queenstown
+7,0,Not Survived,1,First Class,McCarthy, Mr. Timothy J,,Male,54,Adult,0,0,0,17463,51.86,E46,S,Southampton
+8,0,Not Survived,3,Third Class,Palsson, Master. Gosta Leonard,,Male,2,Children,3,1,4,349909,21.08,,S,Southampton
+9,1,Survived,3,Third Class,Johnson, Mrs. Oscar W ,Elisabeth Vilhelmina Berg),Female,27,Adult,0,2,2,347742,11.13,,S,Southampton
+10,1,Survived,2,Second Class,Nasser, Mrs. Nicholas ,Adele Achem),Female,14,Children,1,0,1,237736,30.07,,C,Cherbourg
+11,1,Survived,3,Third Class,Sandstrom, Miss. Marguerite Rut,,Female,4,Children,1,1,2,PP 9549,16.7,G6,S,Southampton
+12,1,Survived,1,First Class,Bonnell, Miss. Elizabeth,,Female,58,Adult,0,0,0,113783,26.55,C103,S,Southampton
+13,0,Not Survived,3,Third Class,Saundercock, Mr. William Henry,,Male,20,Youth,0,0,0,A/5. 2151,8.05,,S,Southampton
+14,0,Not Survived,3,Third Class,Andersson, Mr. Anders Johan,,Male,39,Adult,1,5,6,347082,31.28,,S,Southampton
+15,0,Not Survived,3,Third Class,Vestrom, Miss. Hulda Amanda Adolfina,,Female,14,Children,0,0,0,350406,7.85,,S,Southampton
+16,1,Survived,2,Second Class,Hewlett, Mrs. Mary D,Kingcome) ,Female,55,Adult,0,0,0,248706,16,,S,Southampton
+17,0,Not Survived,3,Third Class,Rice, Master. Eugene,,Male,2,Children,4,1,5,382652,29.13,,Q,Queenstown
+18,1,Survived,2,Second Class,Williams, Mr. Charles Eugene,,Male,30,Adult,0,0,0,244373,13,,S,Southampton
+19,0,Not Survived,3,Third Class,Vander Planke, Mrs. Julius ,Emelia Maria Vandemoortele),Female,31,Adult,1,0,1,345763,18,,S,Southampton
+20,1,Survived,3,Third Class,Masselmani, Mrs. Fatima,,Female,30,Adult,0,0,0,2649,7.23,,C,Cherbourg
+21,0,Not Survived,2,Second Class,Fynney, Mr. Joseph J,,Male,35,Adult,0,0,0,239865,26,,S,Southampton
+22,1,Survived,2,Second Class,Beesley, Mr. Lawrence,,Male,34,Adult,0,0,0,248698,13,D56,S,Southampton
+23,1,Survived,3,Third Class,McGowan," Miss. Anna ""Annie""",,Female,15,Children,0,0,0,330923,8.03,,Q,Queenstown
+24,1,Survived,1,First Class,Sloper, Mr. William Thompson,,Male,28,Adult,0,0,0,113788,35.5,A6,S,Southampton
+25,0,Not Survived,3,Third Class,Palsson, Miss. Torborg Danira,,Female,8,Children,3,1,4,349909,21.08,,S,Southampton
+26,1,Survived,3,Third Class,Asplund, Mrs. Carl Oscar ,Selma Augusta Emilia Johansson),Female,38,Adult,1,5,6,347077,31.39,,S,Southampton
+27,0,Not Survived,3,Third Class,Emir, Mr. Farred Chehab,,Male,30,Adult,0,0,0,2631,7.23,,C,Cherbourg
+28,0,Not Survived,1,First Class,Fortune, Mr. Charles Alexander,,Male,19,Youth,3,2,5,19950,263,C23 C25 C27,S,Southampton
+29,1,Survived,3,Third Class,O'Dwyer," Miss. Ellen ""Nellie""",,Female,30,Adult,0,0,0,330959,7.88,,Q,Queenstown
+30,0,Not Survived,3,Third Class,Todoroff, Mr. Lalio,,Male,30,Adult,0,0,0,349216,7.9,,S,Southampton
+31,0,Not Survived,1,First Class,Uruchurtu, Don. Manuel E,,Male,40,Adult,0,0,0,PC 17601,27.72,,C,Cherbourg
+32,1,Survived,1,First Class,Spencer, Mrs. William Augustus ,Marie Eugenie),Female,30,Adult,1,0,1,PC 17569,146.52,B78,C,Cherbourg
+33,1,Survived,3,Third Class,Glynn, Miss. Mary Agatha,,Female,30,Adult,0,0,0,335677,7.75,,Q,Queenstown
+34,0,Not Survived,2,Second Class,Wheadon, Mr. Edward H,,Male,66,Old,0,0,0,C.A. 24579,10.5,,S,Southampton
+35,0,Not Survived,1,First Class,Meyer, Mr. Edgar Joseph,,Male,28,Adult,1,0,1,PC 17604,82.17,,C,Cherbourg
+36,0,Not Survived,1,First Class,Holverson, Mr. Alexander Oskar,,Male,42,Adult,1,0,1,113789,52,,S,Southampton
+37,1,Survived,3,Third Class,Mamee, Mr. Hanna,,Male,30,Adult,0,0,0,2677,7.23,,C,Cherbourg
+38,0,Not Survived,3,Third Class,Cann, Mr. Ernest Charles,,Male,21,Youth,0,0,0,A./5. 2152,8.05,,S,Southampton
+39,0,Not Survived,3,Third Class,Vander Planke, Miss. Augusta Maria,,Female,18,Youth,2,0,2,345764,18,,S,Southampton
+40,1,Survived,3,Third Class,Nicola-Yarred, Miss. Jamila,,Female,14,Children,1,0,1,2651,11.24,,C,Cherbourg
+41,0,Not Survived,3,Third Class,Ahlin, Mrs. Johan ,Johanna Persdotter Larsson),Female,40,Adult,1,0,1,7546,9.48,,S,Southampton
+42,0,Not Survived,2,Second Class,Turpin, Mrs. William John Robert ,Dorothy Ann Wonnacott),Female,27,Adult,1,0,1,11668,21,,S,Southampton
+43,0,Not Survived,3,Third Class,Kraeff, Mr. Theodor,,Male,30,Adult,0,0,0,349253,7.9,,C,Cherbourg
+44,1,Survived,2,Second Class,Laroche, Miss. Simonne Marie Anne Andree,,Female,3,Children,1,2,3,SC/Paris 2123,41.58,,C,Cherbourg
+45,1,Survived,3,Third Class,Devaney, Miss. Margaret Delia,,Female,19,Youth,0,0,0,330958,7.88,,Q,Queenstown
+46,0,Not Survived,3,Third Class,Rogers, Mr. William John,,Male,30,Adult,0,0,0,S.C./A.4. 23567,8.05,,S,Southampton
+47,0,Not Survived,3,Third Class,Lennon, Mr. Denis,,Male,30,Adult,1,0,1,370371,15.5,,Q,Queenstown
+48,1,Survived,3,Third Class,O'Driscoll, Miss. Bridget,,Female,30,Adult,0,0,0,14311,7.75,,Q,Queenstown
+49,0,Not Survived,3,Third Class,Samaan, Mr. Youssef,,Male,30,Adult,2,0,2,2662,21.68,,C,Cherbourg
+50,0,Not Survived,3,Third Class,Arnold-Franchi, Mrs. Josef ,Josefine Franchi),Female,18,Youth,1,0,1,349237,17.8,,S,Southampton
+51,0,Not Survived,3,Third Class,Panula, Master. Juha Niilo,,Male,7,Children,4,1,5,3101295,39.69,,S,Southampton
+52,0,Not Survived,3,Third Class,Nosworthy, Mr. Richard Cater,,Male,21,Youth,0,0,0,A/4. 39886,7.8,,S,Southampton
+53,1,Survived,1,First Class,Harper, Mrs. Henry Sleeper ,Myna Haxtun),Female,49,Adult,1,0,1,PC 17572,76.73,D33,C,Cherbourg
+54,1,Survived,2,Second Class,Faunthorpe, Mrs. Lizzie ,Elizabeth Anne Wilkinson),Female,29,Adult,1,0,1,2926,26,,S,Southampton
+55,0,Not Survived,1,First Class,Ostby, Mr. Engelhart Cornelius,,Male,65,Old,0,1,1,113509,61.98,B30,C,Cherbourg
+56,1,Survived,1,First Class,Woolner, Mr. Hugh,,Male,30,Adult,0,0,0,19947,35.5,C52,S,Southampton
+57,1,Survived,2,Second Class,Rugg, Miss. Emily,,Female,21,Youth,0,0,0,C.A. 31026,10.5,,S,Southampton
+58,0,Not Survived,3,Third Class,Novel, Mr. Mansouer,,Male,29,Adult,0,0,0,2697,7.23,,C,Cherbourg
+59,1,Survived,2,Second Class,West, Miss. Constance Mirium,,Female,5,Children,1,2,3,C.A. 34651,27.75,,S,Southampton
+60,0,Not Survived,3,Third Class,Goodwin, Master. William Frederick,,Male,11,Children,5,2,7,CA 2144,46.9,,S,Southampton
+61,0,Not Survived,3,Third Class,Sirayanian, Mr. Orsen,,Male,22,Youth,0,0,0,2669,7.23,,C,Cherbourg
+62,1,Survived,1,First Class,Icard, Miss. Amelie,,Female,38,Adult,0,0,0,113572,80,B28,,Invalid
+63,0,Not Survived,1,First Class,Harris, Mr. Henry Birkhardt,,Male,45,Adult,1,0,1,36973,83.48,C83,S,Southampton
+64,0,Not Survived,3,Third Class,Skoog, Master. Harald,,Male,4,Children,3,2,5,347088,27.9,,S,Southampton
+65,0,Not Survived,1,First Class,Stewart, Mr. Albert A,,Male,30,Adult,0,0,0,PC 17605,27.72,,C,Cherbourg
+66,1,Survived,3,Third Class,Moubarek, Master. Gerios,,Male,30,Adult,1,1,2,2661,15.25,,C,Cherbourg
+67,1,Survived,2,Second Class,Nye, Mrs. Elizabeth ,Ramell),Female,29,Adult,0,0,0,C.A. 29395,10.5,F33,S,Southampton
+68,0,Not Survived,3,Third Class,Crease, Mr. Ernest James,,Male,19,Youth,0,0,0,S.P. 3464,8.16,,S,Southampton
+69,1,Survived,3,Third Class,Andersson, Miss. Erna Alexandra,,Female,17,Youth,4,2,6,3101281,7.93,,S,Southampton
+70,0,Not Survived,3,Third Class,Kink, Mr. Vincenz,,Male,26,Adult,2,0,2,315151,8.66,,S,Southampton
+71,0,Not Survived,2,Second Class,Jenkin, Mr. Stephen Curnow,,Male,32,Adult,0,0,0,C.A. 33111,10.5,,S,Southampton
+72,0,Not Survived,3,Third Class,Goodwin, Miss. Lillian Amy,,Female,16,Youth,5,2,7,CA 2144,46.9,,S,Southampton
+73,0,Not Survived,2,Second Class,Hood, Mr. Ambrose Jr,,Male,21,Youth,0,0,0,S.O.C. 14879,73.5,,S,Southampton
+74,0,Not Survived,3,Third Class,Chronopoulos, Mr. Apostolos,,Male,26,Adult,1,0,1,2680,14.45,,C,Cherbourg
+75,1,Survived,3,Third Class,Bing, Mr. Lee,,Male,32,Adult,0,0,0,1601,56.5,,S,Southampton
+76,0,Not Survived,3,Third Class,Moen, Mr. Sigurd Hansen,,Male,25,Youth,0,0,0,348123,7.65,F G73,S,Southampton
+77,0,Not Survived,3,Third Class,Staneff, Mr. Ivan,,Male,30,Adult,0,0,0,349208,7.9,,S,Southampton
+78,0,Not Survived,3,Third Class,Moutal, Mr. Rahamin Haim,,Male,30,Adult,0,0,0,374746,8.05,,S,Southampton
+79,1,Survived,2,Second Class,Caldwell, Master. Alden Gates,,Male,1,Children,0,2,2,248738,29,,S,Southampton
+80,1,Survived,3,Third Class,Dowdell, Miss. Elizabeth,,Female,30,Adult,0,0,0,364516,12.48,,S,Southampton
+81,0,Not Survived,3,Third Class,Waelens, Mr. Achille,,Male,22,Youth,0,0,0,345767,9,,S,Southampton
+82,1,Survived,3,Third Class,Sheerlinck, Mr. Jan Baptist,,Male,29,Adult,0,0,0,345779,9.5,,S,Southampton
+83,1,Survived,3,Third Class,McDermott, Miss. Brigdet Delia,,Female,30,Adult,0,0,0,330932,7.79,,Q,Queenstown
+84,0,Not Survived,1,First Class,Carrau, Mr. Francisco M,,Male,28,Adult,0,0,0,113059,47.1,,S,Southampton
+85,1,Survived,2,Second Class,Ilett, Miss. Bertha,,Female,17,Youth,0,0,0,SO/C 14885,10.5,,S,Southampton
+86,1,Survived,3,Third Class,Backstrom, Mrs. Karl Alfred ,Maria Mathilda Gustafsson),Female,33,Adult,3,0,3,3101278,15.85,,S,Southampton
+87,0,Not Survived,3,Third Class,Ford, Mr. William Neal,,Male,16,Youth,1,3,4,W./C. 6608,34.38,,S,Southampton
+88,0,Not Survived,3,Third Class,Slocovski, Mr. Selman Francis,,Male,30,Adult,0,0,0,SOTON/OQ 392086,8.05,,S,Southampton
+89,1,Survived,1,First Class,Fortune, Miss. Mabel Helen,,Female,23,Youth,3,2,5,19950,263,C23 C25 C27,S,Southampton
+90,0,Not Survived,3,Third Class,Celotti, Mr. Francesco,,Male,24,Youth,0,0,0,343275,8.05,,S,Southampton
+91,0,Not Survived,3,Third Class,Christmann, Mr. Emil,,Male,29,Adult,0,0,0,343276,8.05,,S,Southampton
+92,0,Not Survived,3,Third Class,Andreasson, Mr. Paul Edvin,,Male,20,Youth,0,0,0,347466,7.85,,S,Southampton
+93,0,Not Survived,1,First Class,Chaffee, Mr. Herbert Fuller,,Male,46,Adult,1,0,1,W.E.P. 5734,61.18,E31,S,Southampton
+94,0,Not Survived,3,Third Class,Dean, Mr. Bertram Frank,,Male,26,Adult,1,2,3,C.A. 2315,20.58,,S,Southampton
+95,0,Not Survived,3,Third Class,Coxon, Mr. Daniel,,Male,59,Adult,0,0,0,364500,7.25,,S,Southampton
+96,0,Not Survived,3,Third Class,Shorney, Mr. Charles Joseph,,Male,30,Adult,0,0,0,374910,8.05,,S,Southampton
+97,0,Not Survived,1,First Class,Goldschmidt, Mr. George B,,Male,71,Old,0,0,0,PC 17754,34.65,A5,C,Cherbourg
+98,1,Survived,1,First Class,Greenfield, Mr. William Bertram,,Male,23,Youth,0,1,1,PC 17759,63.36,D10 D12,C,Cherbourg
+99,1,Survived,2,Second Class,Doling, Mrs. John T ,Ada Julia Bone),Female,34,Adult,0,1,1,231919,23,,S,Southampton
+100,0,Not Survived,2,Second Class,Kantor, Mr. Sinai,,Male,34,Adult,1,0,1,244367,26,,S,Southampton
+101,0,Not Survived,3,Third Class,Petranec, Miss. Matilda,,Female,28,Adult,0,0,0,349245,7.9,,S,Southampton
+102,0,Not Survived,3,Third Class,Petroff, Mr. Pastcho ,Pentcho),Male,30,Adult,0,0,0,349215,7.9,,S,Southampton
+103,0,Not Survived,1,First Class,White, Mr. Richard Frasar,,Male,21,Youth,0,1,1,35281,77.29,D26,S,Southampton
+104,0,Not Survived,3,Third Class,Johansson, Mr. Gustaf Joel,,Male,33,Adult,0,0,0,7540,8.65,,S,Southampton
+105,0,Not Survived,3,Third Class,Gustafsson, Mr. Anders Vilhelm,,Male,37,Adult,2,0,2,3101276,7.93,,S,Southampton
+106,0,Not Survived,3,Third Class,Mionoff, Mr. Stoytcho,,Male,28,Adult,0,0,0,349207,7.9,,S,Southampton
+107,1,Survived,3,Third Class,Salkjelsvik, Miss. Anna Kristine,,Female,21,Youth,0,0,0,343120,7.65,,S,Southampton
+108,1,Survived,3,Third Class,Moss, Mr. Albert Johan,,Male,30,Adult,0,0,0,312991,7.78,,S,Southampton
+109,0,Not Survived,3,Third Class,Rekic, Mr. Tido,,Male,38,Adult,0,0,0,349249,7.9,,S,Southampton
+110,1,Survived,3,Third Class,Moran, Miss. Bertha,,Female,30,Adult,1,0,1,371110,24.15,,Q,Queenstown
+111,0,Not Survived,1,First Class,Porter, Mr. Walter Chamberlain,,Male,47,Adult,0,0,0,110465,52,C110,S,Southampton
+112,0,Not Survived,3,Third Class,Zabour, Miss. Hileni,,Female,15,Children,1,0,1,2665,14.45,,C,Cherbourg
+113,0,Not Survived,3,Third Class,Barton, Mr. David John,,Male,22,Youth,0,0,0,324669,8.05,,S,Southampton
+114,0,Not Survived,3,Third Class,Jussila, Miss. Katriina,,Female,20,Youth,1,0,1,4136,9.83,,S,Southampton
+115,0,Not Survived,3,Third Class,Attalah, Miss. Malake,,Female,17,Youth,0,0,0,2627,14.46,,C,Cherbourg
+116,0,Not Survived,3,Third Class,Pekoniemi, Mr. Edvard,,Male,21,Youth,0,0,0,STON/O 2. 3101294,7.93,,S,Southampton
+117,0,Not Survived,3,Third Class,Connors, Mr. Patrick,,Male,71,Old,0,0,0,370369,7.75,,Q,Queenstown
+118,0,Not Survived,2,Second Class,Turpin, Mr. William John Robert,,Male,29,Adult,1,0,1,11668,21,,S,Southampton
+119,0,Not Survived,1,First Class,Baxter, Mr. Quigg Edmond,,Male,24,Youth,0,1,1,PC 17558,247.52,B58 B60,C,Cherbourg
+120,0,Not Survived,3,Third Class,Andersson, Miss. Ellis Anna Maria,,Female,2,Children,4,2,6,347082,31.28,,S,Southampton
+121,0,Not Survived,2,Second Class,Hickman, Mr. Stanley George,,Male,21,Youth,2,0,2,S.O.C. 14879,73.5,,S,Southampton
+122,0,Not Survived,3,Third Class,Moore, Mr. Leonard Charles,,Male,30,Adult,0,0,0,A4. 54510,8.05,,S,Southampton
+123,0,Not Survived,2,Second Class,Nasser, Mr. Nicholas,,Male,33,Adult,1,0,1,237736,30.07,,C,Cherbourg
+124,1,Survived,2,Second Class,Webber, Miss. Susan,,Female,33,Adult,0,0,0,27267,13,E101,S,Southampton
+125,0,Not Survived,1,First Class,White, Mr. Percival Wayland,,Male,54,Adult,0,1,1,35281,77.29,D26,S,Southampton
+126,1,Survived,3,Third Class,Nicola-Yarred, Master. Elias,,Male,12,Children,1,0,1,2651,11.24,,C,Cherbourg
+127,0,Not Survived,3,Third Class,McMahon, Mr. Martin,,Male,30,Adult,0,0,0,370372,7.75,,Q,Queenstown
+128,1,Survived,3,Third Class,Madsen, Mr. Fridtjof Arne,,Male,24,Youth,0,0,0,C 17369,7.14,,S,Southampton
+129,1,Survived,3,Third Class,Peter, Miss. Anna,,Female,30,Adult,1,1,2,2668,22.36,F E69,C,Cherbourg
+130,0,Not Survived,3,Third Class,Ekstrom, Mr. Johan,,Male,45,Adult,0,0,0,347061,6.98,,S,Southampton
+131,0,Not Survived,3,Third Class,Drazenoic, Mr. Jozef,,Male,33,Adult,0,0,0,349241,7.9,,C,Cherbourg
+132,0,Not Survived,3,Third Class,Coelho, Mr. Domingos Fernandeo,,Male,20,Youth,0,0,0,SOTON/O.Q. 3101307,7.05,,S,Southampton
+133,0,Not Survived,3,Third Class,Robins, Mrs. Alexander A ,Grace Charity Laury),Female,47,Adult,1,0,1,A/5. 3337,14.5,,S,Southampton
+134,1,Survived,2,Second Class,Weisz, Mrs. Leopold ,Mathilde Francoise Pede),Female,29,Adult,1,0,1,228414,26,,S,Southampton
+135,0,Not Survived,2,Second Class,Sobey, Mr. Samuel James Hayden,,Male,25,Youth,0,0,0,C.A. 29178,13,,S,Southampton
+136,0,Not Survived,2,Second Class,Richard, Mr. Emile,,Male,23,Youth,0,0,0,SC/PARIS 2133,15.05,,C,Cherbourg
+137,1,Survived,1,First Class,Newsom, Miss. Helen Monypeny,,Female,19,Youth,0,2,2,11752,26.28,D47,S,Southampton
+138,0,Not Survived,1,First Class,Futrelle, Mr. Jacques Heath,,Male,37,Adult,1,0,1,113803,53.1,C123,S,Southampton
+139,0,Not Survived,3,Third Class,Osen, Mr. Olaf Elon,,Male,16,Youth,0,0,0,7534,9.22,,S,Southampton
+140,0,Not Survived,1,First Class,Giglio, Mr. Victor,,Male,24,Youth,0,0,0,PC 17593,79.2,B86,C,Cherbourg
+141,0,Not Survived,3,Third Class,Boulos, Mrs. Joseph ,Sultana),Female,30,Adult,0,2,2,2678,15.25,,C,Cherbourg
+142,1,Survived,3,Third Class,Nysten, Miss. Anna Sofia,,Female,22,Youth,0,0,0,347081,7.75,,S,Southampton
+143,1,Survived,3,Third Class,Hakkarainen, Mrs. Pekka Pietari ,Elin Matilda Dolck),Female,24,Youth,1,0,1,STON/O2. 3101279,15.85,,S,Southampton
+144,0,Not Survived,3,Third Class,Burke, Mr. Jeremiah,,Male,19,Youth,0,0,0,365222,6.75,,Q,Queenstown
+145,0,Not Survived,2,Second Class,Andrew, Mr. Edgardo Samuel,,Male,18,Youth,0,0,0,231945,11.5,,S,Southampton
+146,0,Not Survived,2,Second Class,Nicholls, Mr. Joseph Charles,,Male,19,Youth,1,1,2,C.A. 33112,36.75,,S,Southampton
+147,1,Survived,3,Third Class,Andersson, Mr. August Edvard ,Wennerstrom),Male,27,Adult,0,0,0,350043,7.8,,S,Southampton
+148,0,Not Survived,3,Third Class,Ford," Miss. Robina Maggie ""Ruby""",,Female,9,Children,2,2,4,W./C. 6608,34.38,,S,Southampton
+149,0,Not Survived,2,Second Class,Navratil, Mr. Michel ,Louis M Hoffman),Male,37,Adult,0,2,2,230080,26,F2,S,Southampton
+150,0,Not Survived,2,Second Class,Byles, Rev. Thomas Roussel Davids,,Male,42,Adult,0,0,0,244310,13,,S,Southampton
+151,0,Not Survived,2,Second Class,Bateman, Rev. Robert James,,Male,51,Adult,0,0,0,S.O.P. 1166,12.53,,S,Southampton
+152,1,Survived,1,First Class,Pears, Mrs. Thomas ,Edith Wearne),Female,22,Youth,1,0,1,113776,66.6,C2,S,Southampton
+153,0,Not Survived,3,Third Class,Meo, Mr. Alfonzo,,Male,56,Adult,0,0,0,A.5. 11206,8.05,,S,Southampton
+154,0,Not Survived,3,Third Class,van Billiard, Mr. Austin Blyler,,Male,41,Adult,0,2,2,A/5. 851,14.5,,S,Southampton
+155,0,Not Survived,3,Third Class,Olsen, Mr. Ole Martin,,Male,30,Adult,0,0,0,Fa 265302,7.31,,S,Southampton
+156,0,Not Survived,1,First Class,Williams, Mr. Charles Duane,,Male,51,Adult,0,1,1,PC 17597,61.38,,C,Cherbourg
+157,1,Survived,3,Third Class,Gilnagh," Miss. Katherine ""Katie""",,Female,16,Youth,0,0,0,35851,7.73,,Q,Queenstown
+158,0,Not Survived,3,Third Class,Corn, Mr. Harry,,Male,30,Adult,0,0,0,SOTON/OQ 392090,8.05,,S,Southampton
+159,0,Not Survived,3,Third Class,Smiljanic, Mr. Mile,,Male,30,Adult,0,0,0,315037,8.66,,S,Southampton
+160,0,Not Survived,3,Third Class,Sage, Master. Thomas Henry,,Male,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+161,0,Not Survived,3,Third Class,Cribb, Mr. John Hatfield,,Male,44,Adult,0,1,1,371362,16.1,,S,Southampton
+162,1,Survived,2,Second Class,Watt, Mrs. James ,"Elizabeth ""Bessie"" Inglis Milne)",Female,40,Adult,0,0,0,C.A. 33595,15.75,,S,Southampton
+163,0,Not Survived,3,Third Class,Bengtsson, Mr. John Viktor,,Male,26,Adult,0,0,0,347068,7.78,,S,Southampton
+164,0,Not Survived,3,Third Class,Calic, Mr. Jovo,,Male,17,Youth,0,0,0,315093,8.66,,S,Southampton
+165,0,Not Survived,3,Third Class,Panula, Master. Eino Viljami,,Male,1,Children,4,1,5,3101295,39.69,,S,Southampton
+166,1,Survived,3,Third Class,Goldsmith," Master. Frank John William ""Frankie""",,Male,9,Children,0,2,2,363291,20.53,,S,Southampton
+167,1,Survived,1,First Class,Chibnall, Mrs. Edith,Martha Bowerman),Female,30,Adult,0,1,1,113505,55,E33,S,Southampton
+168,0,Not Survived,3,Third Class,Skoog, Mrs. William ,Anna Bernhardina Karlsson),Female,45,Adult,1,4,5,347088,27.9,,S,Southampton
+169,0,Not Survived,1,First Class,Baumann, Mr. John D,,Male,30,Adult,0,0,0,PC 17318,25.93,,S,Southampton
+170,0,Not Survived,3,Third Class,Ling, Mr. Lee,,Male,28,Adult,0,0,0,1601,56.5,,S,Southampton
+171,0,Not Survived,1,First Class,Van der hoef, Mr. Wyckoff,,Male,61,Old,0,0,0,111240,33.5,B19,S,Southampton
+172,0,Not Survived,3,Third Class,Rice, Master. Arthur,,Male,4,Children,4,1,5,382652,29.13,,Q,Queenstown
+173,1,Survived,3,Third Class,Johnson, Miss. Eleanor Ileen,,Female,1,Children,1,1,2,347742,11.13,,S,Southampton
+174,0,Not Survived,3,Third Class,Sivola, Mr. Antti Wilhelm,,Male,21,Youth,0,0,0,STON/O 2. 3101280,7.93,,S,Southampton
+175,0,Not Survived,1,First Class,Smith, Mr. James Clinch,,Male,56,Adult,0,0,0,17764,30.7,A7,C,Cherbourg
+176,0,Not Survived,3,Third Class,Klasen, Mr. Klas Albin,,Male,18,Youth,1,1,2,350404,7.85,,S,Southampton
+177,0,Not Survived,3,Third Class,Lefebre, Master. Henry Forbes,,Male,30,Adult,3,1,4,4133,25.47,,S,Southampton
+178,0,Not Survived,1,First Class,Isham, Miss. Ann Elizabeth,,Female,50,Adult,0,0,0,PC 17595,28.71,C49,C,Cherbourg
+179,0,Not Survived,2,Second Class,Hale, Mr. Reginald,,Male,30,Adult,0,0,0,250653,13,,S,Southampton
+180,0,Not Survived,3,Third Class,Leonard, Mr. Lionel,,Male,36,Adult,0,0,0,LINE,0,,S,Southampton
+181,0,Not Survived,3,Third Class,Sage, Miss. Constance Gladys,,Female,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+182,0,Not Survived,2,Second Class,Pernot, Mr. Rene,,Male,30,Adult,0,0,0,SC/PARIS 2131,15.05,,C,Cherbourg
+183,0,Not Survived,3,Third Class,Asplund, Master. Clarence Gustaf Hugo,,Male,9,Children,4,2,6,347077,31.39,,S,Southampton
+184,1,Survived,2,Second Class,Becker, Master. Richard F,,Male,1,Children,2,1,3,230136,39,F4,S,Southampton
+185,1,Survived,3,Third Class,Kink-Heilmann, Miss. Luise Gretchen,,Female,4,Children,0,2,2,315153,22.03,,S,Southampton
+186,0,Not Survived,1,First Class,Rood, Mr. Hugh Roscoe,,Male,30,Adult,0,0,0,113767,50,A32,S,Southampton
+187,1,Survived,3,Third Class,O'Brien, Mrs. Thomas ,"Johanna ""Hannah"" Godfrey)",Female,30,Adult,1,0,1,370365,15.5,,Q,Queenstown
+188,1,Survived,1,First Class,Romaine, Mr. Charles Hallace ,Mr C Rolmane),Male,45,Adult,0,0,0,111428,26.55,,S,Southampton
+189,0,Not Survived,3,Third Class,Bourke, Mr. John,,Male,40,Adult,1,1,2,364849,15.5,,Q,Queenstown
+190,0,Not Survived,3,Third Class,Turcin, Mr. Stjepan,,Male,36,Adult,0,0,0,349247,7.9,,S,Southampton
+191,1,Survived,2,Second Class,Pinsky, Mrs. Rosa,,Female,32,Adult,0,0,0,234604,13,,S,Southampton
+192,0,Not Survived,2,Second Class,Carbines, Mr. William,,Male,19,Youth,0,0,0,28424,13,,S,Southampton
+193,1,Survived,3,Third Class,Andersen-Jensen, Miss. Carla Christine Nielsine,,Female,19,Youth,1,0,1,350046,7.85,,S,Southampton
+194,1,Survived,2,Second Class,Navratil, Master. Michel M,,Male,3,Children,1,1,2,230080,26,F2,S,Southampton
+195,1,Survived,1,First Class,Brown, Mrs. James Joseph ,Margaret Tobin),Female,44,Adult,0,0,0,PC 17610,27.72,B4,C,Cherbourg
+196,1,Survived,1,First Class,Lurette, Miss. Elise,,Female,58,Adult,0,0,0,PC 17569,146.52,B80,C,Cherbourg
+197,0,Not Survived,3,Third Class,Mernagh, Mr. Robert,,Male,30,Adult,0,0,0,368703,7.75,,Q,Queenstown
+198,0,Not Survived,3,Third Class,Olsen, Mr. Karl Siegwart Andreas,,Male,42,Adult,0,1,1,4579,8.4,,S,Southampton
+199,1,Survived,3,Third Class,Madigan," Miss. Margaret ""Maggie""",,Female,30,Adult,0,0,0,370370,7.75,,Q,Queenstown
+200,0,Not Survived,2,Second Class,Yrois, Miss. Henriette ,Mrs Harbeck),Female,24,Youth,0,0,0,248747,13,,S,Southampton
+201,0,Not Survived,3,Third Class,Vande Walle, Mr. Nestor Cyriel,,Male,28,Adult,0,0,0,345770,9.5,,S,Southampton
+202,0,Not Survived,3,Third Class,Sage, Mr. Frederick,,Male,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+203,0,Not Survived,3,Third Class,Johanson, Mr. Jakob Alfred,,Male,34,Adult,0,0,0,3101264,6.5,,S,Southampton
+204,0,Not Survived,3,Third Class,Youseff, Mr. Gerious,,Male,46,Adult,0,0,0,2628,7.23,,C,Cherbourg
+205,1,Survived,3,Third Class,Cohen," Mr. Gurshon ""Gus""",,Male,18,Youth,0,0,0,A/5 3540,8.05,,S,Southampton
+206,0,Not Survived,3,Third Class,Strom, Miss. Telma Matilda,,Female,2,Children,0,1,1,347054,10.46,G6,S,Southampton
+207,0,Not Survived,3,Third Class,Backstrom, Mr. Karl Alfred,,Male,32,Adult,1,0,1,3101278,15.85,,S,Southampton
+208,1,Survived,3,Third Class,Albimona, Mr. Nassef Cassem,,Male,26,Adult,0,0,0,2699,18.79,,C,Cherbourg
+209,1,Survived,3,Third Class,Carr," Miss. Helen ""Ellen""",,Female,16,Youth,0,0,0,367231,7.75,,Q,Queenstown
+210,1,Survived,1,First Class,Blank, Mr. Henry,,Male,40,Adult,0,0,0,112277,31,A31,C,Cherbourg
+211,0,Not Survived,3,Third Class,Ali, Mr. Ahmed,,Male,24,Youth,0,0,0,SOTON/O.Q. 3101311,7.05,,S,Southampton
+212,1,Survived,2,Second Class,Cameron, Miss. Clear Annie,,Female,35,Adult,0,0,0,F.C.C. 13528,21,,S,Southampton
+213,0,Not Survived,3,Third Class,Perkin, Mr. John Henry,,Male,22,Youth,0,0,0,A/5 21174,7.25,,S,Southampton
+214,0,Not Survived,2,Second Class,Givard, Mr. Hans Kristensen,,Male,30,Adult,0,0,0,250646,13,,S,Southampton
+215,0,Not Survived,3,Third Class,Kiernan, Mr. Philip,,Male,30,Adult,1,0,1,367229,7.75,,Q,Queenstown
+216,1,Survived,1,First Class,Newell, Miss. Madeleine,,Female,31,Adult,1,0,1,35273,113.28,D36,C,Cherbourg
+217,1,Survived,3,Third Class,Honkanen, Miss. Eliina,,Female,27,Adult,0,0,0,STON/O2. 3101283,7.93,,S,Southampton
+218,0,Not Survived,2,Second Class,Jacobsohn, Mr. Sidney Samuel,,Male,42,Adult,1,0,1,243847,27,,S,Southampton
+219,1,Survived,1,First Class,Bazzani, Miss. Albina,,Female,32,Adult,0,0,0,11813,76.29,D15,C,Cherbourg
+220,0,Not Survived,2,Second Class,Harris, Mr. Walter,,Male,30,Adult,0,0,0,W/C 14208,10.5,,S,Southampton
+221,1,Survived,3,Third Class,Sunderland, Mr. Victor Francis,,Male,16,Youth,0,0,0,SOTON/OQ 392089,8.05,,S,Southampton
+222,0,Not Survived,2,Second Class,Bracken, Mr. James H,,Male,27,Adult,0,0,0,220367,13,,S,Southampton
+223,0,Not Survived,3,Third Class,Green, Mr. George Henry,,Male,51,Adult,0,0,0,21440,8.05,,S,Southampton
+224,0,Not Survived,3,Third Class,Nenkoff, Mr. Christo,,Male,30,Adult,0,0,0,349234,7.9,,S,Southampton
+225,1,Survived,1,First Class,Hoyt, Mr. Frederick Maxfield,,Male,38,Adult,1,0,1,19943,90,C93,S,Southampton
+226,0,Not Survived,3,Third Class,Berglund, Mr. Karl Ivar Sven,,Male,22,Youth,0,0,0,PP 4348,9.35,,S,Southampton
+227,1,Survived,2,Second Class,Mellors, Mr. William John,,Male,19,Youth,0,0,0,SW/PP 751,10.5,,S,Southampton
+228,0,Not Survived,3,Third Class,Lovell, Mr. John Hall ,Henry),Male,21,Youth,0,0,0,A/5 21173,7.25,,S,Southampton
+229,0,Not Survived,2,Second Class,Fahlstrom, Mr. Arne Jonas,,Male,18,Youth,0,0,0,236171,13,,S,Southampton
+230,0,Not Survived,3,Third Class,Lefebre, Miss. Mathilde,,Female,30,Adult,3,1,4,4133,25.47,,S,Southampton
+231,1,Survived,1,First Class,Harris, Mrs. Henry Birkhardt ,Irene Wallach),Female,35,Adult,1,0,1,36973,83.48,C83,S,Southampton
+232,0,Not Survived,3,Third Class,Larsson, Mr. Bengt Edvin,,Male,29,Adult,0,0,0,347067,7.78,,S,Southampton
+233,0,Not Survived,2,Second Class,Sjostedt, Mr. Ernst Adolf,,Male,59,Adult,0,0,0,237442,13.5,,S,Southampton
+234,1,Survived,3,Third Class,Asplund, Miss. Lillian Gertrud,,Female,5,Children,4,2,6,347077,31.39,,S,Southampton
+235,0,Not Survived,2,Second Class,Leyson, Mr. Robert William Norman,,Male,24,Youth,0,0,0,C.A. 29566,10.5,,S,Southampton
+236,0,Not Survived,3,Third Class,Harknett, Miss. Alice Phoebe,,Female,30,Adult,0,0,0,W./C. 6609,7.55,,S,Southampton
+237,0,Not Survived,2,Second Class,Hold, Mr. Stephen,,Male,44,Adult,1,0,1,26707,26,,S,Southampton
+238,1,Survived,2,Second Class,Collyer," Miss. Marjorie ""Lottie""",,Female,8,Children,0,2,2,C.A. 31921,26.25,,S,Southampton
+239,0,Not Survived,2,Second Class,Pengelly, Mr. Frederick William,,Male,19,Youth,0,0,0,28665,10.5,,S,Southampton
+240,0,Not Survived,2,Second Class,Hunt, Mr. George Henry,,Male,33,Adult,0,0,0,SCO/W 1585,12.28,,S,Southampton
+241,0,Not Survived,3,Third Class,Zabour, Miss. Thamine,,Female,30,Adult,1,0,1,2665,14.45,,C,Cherbourg
+242,1,Survived,3,Third Class,Murphy," Miss. Katherine ""Kate""",,Female,30,Adult,1,0,1,367230,15.5,,Q,Queenstown
+243,0,Not Survived,2,Second Class,Coleridge, Mr. Reginald Charles,,Male,29,Adult,0,0,0,W./C. 14263,10.5,,S,Southampton
+244,0,Not Survived,3,Third Class,Maenpaa, Mr. Matti Alexanteri,,Male,22,Youth,0,0,0,STON/O 2. 3101275,7.13,,S,Southampton
+245,0,Not Survived,3,Third Class,Attalah, Mr. Sleiman,,Male,30,Adult,0,0,0,2694,7.23,,C,Cherbourg
+246,0,Not Survived,1,First Class,Minahan, Dr. William Edward,,Male,44,Adult,2,0,2,19928,90,C78,Q,Queenstown
+247,0,Not Survived,3,Third Class,Lindahl, Miss. Agda Thorilda Viktoria,,Female,25,Youth,0,0,0,347071,7.78,,S,Southampton
+248,1,Survived,2,Second Class,Hamalainen, Mrs. William ,Anna),Female,24,Youth,0,2,2,250649,14.5,,S,Southampton
+249,1,Survived,1,First Class,Beckwith, Mr. Richard Leonard,,Male,37,Adult,1,1,2,11751,52.55,D35,S,Southampton
+250,0,Not Survived,2,Second Class,Carter, Rev. Ernest Courtenay,,Male,54,Adult,1,0,1,244252,26,,S,Southampton
+251,0,Not Survived,3,Third Class,Reed, Mr. James George,,Male,30,Adult,0,0,0,362316,7.25,,S,Southampton
+252,0,Not Survived,3,Third Class,Strom, Mrs. Wilhelm ,Elna Matilda Persson),Female,29,Adult,1,1,2,347054,10.46,G6,S,Southampton
+253,0,Not Survived,1,First Class,Stead, Mr. William Thomas,,Male,62,Old,0,0,0,113514,26.55,C87,S,Southampton
+254,0,Not Survived,3,Third Class,Lobb, Mr. William Arthur,,Male,30,Adult,1,0,1,A/5. 3336,16.1,,S,Southampton
+255,0,Not Survived,3,Third Class,Rosblom, Mrs. Viktor ,Helena Wilhelmina),Female,41,Adult,0,2,2,370129,20.21,,S,Southampton
+256,1,Survived,3,Third Class,Touma, Mrs. Darwis ,Hanne Youssef Razi),Female,29,Adult,0,2,2,2650,15.25,,C,Cherbourg
+257,1,Survived,1,First Class,Thorne, Mrs. Gertrude Maybelle,,Female,30,Adult,0,0,0,PC 17585,79.2,,C,Cherbourg
+258,1,Survived,1,First Class,Cherry, Miss. Gladys,,Female,30,Adult,0,0,0,110152,86.5,B77,S,Southampton
+259,1,Survived,1,First Class,Ward, Miss. Anna,,Female,35,Adult,0,0,0,PC 17755,512.33,,C,Cherbourg
+260,1,Survived,2,Second Class,Parrish, Mrs. Lutie,Davis),Female,50,Adult,0,1,1,230433,26,,S,Southampton
+261,0,Not Survived,3,Third Class,Smith, Mr. Thomas,,Male,30,Adult,0,0,0,384461,7.75,,Q,Queenstown
+262,1,Survived,3,Third Class,Asplund, Master. Edvin Rojj Felix,,Male,3,Children,4,2,6,347077,31.39,,S,Southampton
+263,0,Not Survived,1,First Class,Taussig, Mr. Emil,,Male,52,Adult,1,1,2,110413,79.65,E67,S,Southampton
+264,0,Not Survived,1,First Class,Harrison, Mr. William,,Male,40,Adult,0,0,0,112059,0,B94,S,Southampton
+265,0,Not Survived,3,Third Class,Henry, Miss. Delia,,Female,30,Adult,0,0,0,382649,7.75,,Q,Queenstown
+266,0,Not Survived,2,Second Class,Reeves, Mr. David,,Male,36,Adult,0,0,0,C.A. 17248,10.5,,S,Southampton
+267,0,Not Survived,3,Third Class,Panula, Mr. Ernesti Arvid,,Male,16,Youth,4,1,5,3101295,39.69,,S,Southampton
+268,1,Survived,3,Third Class,Persson, Mr. Ernst Ulrik,,Male,25,Youth,1,0,1,347083,7.78,,S,Southampton
+269,1,Survived,1,First Class,Graham, Mrs. William Thompson ,Edith Junkins),Female,58,Adult,0,1,1,PC 17582,153.46,C125,S,Southampton
+270,1,Survived,1,First Class,Bissette, Miss. Amelia,,Female,35,Adult,0,0,0,PC 17760,135.63,C99,S,Southampton
+271,0,Not Survived,1,First Class,Cairns, Mr. Alexander,,Male,30,Adult,0,0,0,113798,31,,S,Southampton
+272,1,Survived,3,Third Class,Tornquist, Mr. William Henry,,Male,25,Youth,0,0,0,LINE,0,,S,Southampton
+273,1,Survived,2,Second Class,Mellinger, Mrs. Elizabeth ,Anne Maidment),Female,41,Adult,0,1,1,250644,19.5,,S,Southampton
+274,0,Not Survived,1,First Class,Natsch, Mr. Charles H,,Male,37,Adult,0,1,1,PC 17596,29.7,C118,C,Cherbourg
+275,1,Survived,3,Third Class,Healy," Miss. Hanora ""Nora""",,Female,30,Adult,0,0,0,370375,7.75,,Q,Queenstown
+276,1,Survived,1,First Class,Andrews, Miss. Kornelia Theodosia,,Female,63,Old,1,0,1,13502,77.96,D7,S,Southampton
+277,0,Not Survived,3,Third Class,Lindblom, Miss. Augusta Charlotta,,Female,45,Adult,0,0,0,347073,7.75,,S,Southampton
+278,0,Not Survived,2,Second Class,Parkes," Mr. Francis ""Frank""",,Male,30,Adult,0,0,0,239853,0,,S,Southampton
+279,0,Not Survived,3,Third Class,Rice, Master. Eric,,Male,7,Children,4,1,5,382652,29.13,,Q,Queenstown
+280,1,Survived,3,Third Class,Abbott, Mrs. Stanton ,Rosa Hunt),Female,35,Adult,1,1,2,C.A. 2673,20.25,,S,Southampton
+281,0,Not Survived,3,Third Class,Duane, Mr. Frank,,Male,65,Old,0,0,0,336439,7.75,,Q,Queenstown
+282,0,Not Survived,3,Third Class,Olsson, Mr. Nils Johan Goransson,,Male,28,Adult,0,0,0,347464,7.85,,S,Southampton
+283,0,Not Survived,3,Third Class,de Pelsmaeker, Mr. Alfons,,Male,16,Youth,0,0,0,345778,9.5,,S,Southampton
+284,1,Survived,3,Third Class,Dorking, Mr. Edward Arthur,,Male,19,Youth,0,0,0,A/5. 10482,8.05,,S,Southampton
+285,0,Not Survived,1,First Class,Smith, Mr. Richard William,,Male,30,Adult,0,0,0,113056,26,A19,S,Southampton
+286,0,Not Survived,3,Third Class,Stankovic, Mr. Ivan,,Male,33,Adult,0,0,0,349239,8.66,,C,Cherbourg
+287,1,Survived,3,Third Class,de Mulder, Mr. Theodore,,Male,30,Adult,0,0,0,345774,9.5,,S,Southampton
+288,0,Not Survived,3,Third Class,Naidenoff, Mr. Penko,,Male,22,Youth,0,0,0,349206,7.9,,S,Southampton
+289,1,Survived,2,Second Class,Hosono, Mr. Masabumi,,Male,42,Adult,0,0,0,237798,13,,S,Southampton
+290,1,Survived,3,Third Class,Connolly, Miss. Kate,,Female,22,Youth,0,0,0,370373,7.75,,Q,Queenstown
+291,1,Survived,1,First Class,Barber," Miss. Ellen ""Nellie""",,Female,26,Adult,0,0,0,19877,78.85,,S,Southampton
+292,1,Survived,1,First Class,Bishop, Mrs. Dickinson H ,Helen Walton),Female,19,Youth,1,0,1,11967,91.08,B49,C,Cherbourg
+293,0,Not Survived,2,Second Class,Levy, Mr. Rene Jacques,,Male,36,Adult,0,0,0,SC/Paris 2163,12.88,D,C,Cherbourg
+294,0,Not Survived,3,Third Class,Haas, Miss. Aloisia,,Female,24,Youth,0,0,0,349236,8.85,,S,Southampton
+295,0,Not Survived,3,Third Class,Mineff, Mr. Ivan,,Male,24,Youth,0,0,0,349233,7.9,,S,Southampton
+296,0,Not Survived,1,First Class,Lewy, Mr. Ervin G,,Male,30,Adult,0,0,0,PC 17612,27.72,,C,Cherbourg
+297,0,Not Survived,3,Third Class,Hanna, Mr. Mansour,,Male,24,Youth,0,0,0,2693,7.23,,C,Cherbourg
+298,0,Not Survived,1,First Class,Allison, Miss. Helen Loraine,,Female,2,Children,1,2,3,113781,151.55,C22 C26,S,Southampton
+299,1,Survived,1,First Class,Saalfeld, Mr. Adolphe,,Male,30,Adult,0,0,0,19988,30.5,C106,S,Southampton
+300,1,Survived,1,First Class,Baxter, Mrs. James ,Helene DeLaudeniere Chaput),Female,50,Adult,0,1,1,PC 17558,247.52,B58 B60,C,Cherbourg
+301,1,Survived,3,Third Class,Kelly," Miss. Anna Katherine ""Annie Kate""",,Female,30,Adult,0,0,0,9234,7.75,,Q,Queenstown
+302,1,Survived,3,Third Class,McCoy, Mr. Bernard,,Male,30,Adult,2,0,2,367226,23.25,,Q,Queenstown
+303,0,Not Survived,3,Third Class,Johnson, Mr. William Cahoone Jr,,Male,19,Youth,0,0,0,LINE,0,,S,Southampton
+304,1,Survived,2,Second Class,Keane, Miss. Nora A,,Female,30,Adult,0,0,0,226593,12.35,E101,Q,Queenstown
+305,0,Not Survived,3,Third Class,Williams," Mr. Howard Hugh ""Harry""",,Male,30,Adult,0,0,0,A/5 2466,8.05,,S,Southampton
+306,1,Survived,1,First Class,Allison, Master. Hudson Trevor,,Male,1,Children,1,2,3,113781,151.55,C22 C26,S,Southampton
+307,1,Survived,1,First Class,Fleming, Miss. Margaret,,Female,30,Adult,0,0,0,17421,110.88,,C,Cherbourg
+308,1,Survived,1,First Class,Penasco y Castellana, Mrs. Victor de Satode ,Maria Josefa Perez de Soto y Vallejo),Female,17,Youth,1,0,1,PC 17758,108.9,C65,C,Cherbourg
+309,0,Not Survived,2,Second Class,Abelson, Mr. Samuel,,Male,30,Adult,1,0,1,P/PP 3381,24,,C,Cherbourg
+310,1,Survived,1,First Class,Francatelli, Miss. Laura Mabel,,Female,30,Adult,0,0,0,PC 17485,56.93,E36,C,Cherbourg
+311,1,Survived,1,First Class,Hays, Miss. Margaret Bechstein,,Female,24,Youth,0,0,0,11767,83.16,C54,C,Cherbourg
+312,1,Survived,1,First Class,Ryerson, Miss. Emily Borie,,Female,18,Youth,2,2,4,PC 17608,262.38,B57 B59 B63 B66,C,Cherbourg
+313,0,Not Survived,2,Second Class,Lahtinen, Mrs. William ,Anna Sylfven),Female,26,Adult,1,1,2,250651,26,,S,Southampton
+314,0,Not Survived,3,Third Class,Hendekovic, Mr. Ignjac,,Male,28,Adult,0,0,0,349243,7.9,,S,Southampton
+315,0,Not Survived,2,Second Class,Hart, Mr. Benjamin,,Male,43,Adult,1,1,2,F.C.C. 13529,26.25,,S,Southampton
+316,1,Survived,3,Third Class,Nilsson, Miss. Helmina Josefina,,Female,26,Adult,0,0,0,347470,7.85,,S,Southampton
+317,1,Survived,2,Second Class,Kantor, Mrs. Sinai ,Miriam Sternin),Female,24,Youth,1,0,1,244367,26,,S,Southampton
+318,0,Not Survived,2,Second Class,Moraweck, Dr. Ernest,,Male,54,Adult,0,0,0,29011,14,,S,Southampton
+319,1,Survived,1,First Class,Wick, Miss. Mary Natalie,,Female,31,Adult,0,2,2,36928,164.87,C7,S,Southampton
+320,1,Survived,1,First Class,Spedden, Mrs. Frederic Oakley ,Margaretta Corning Stone),Female,40,Adult,1,1,2,16966,134.5,E34,C,Cherbourg
+321,0,Not Survived,3,Third Class,Dennis, Mr. Samuel,,Male,22,Youth,0,0,0,A/5 21172,7.25,,S,Southampton
+322,0,Not Survived,3,Third Class,Danoff, Mr. Yoto,,Male,27,Adult,0,0,0,349219,7.9,,S,Southampton
+323,1,Survived,2,Second Class,Slayter, Miss. Hilda Mary,,Female,30,Adult,0,0,0,234818,12.35,,Q,Queenstown
+324,1,Survived,2,Second Class,Caldwell, Mrs. Albert Francis ,Sylvia Mae Harbaugh),Female,22,Youth,1,1,2,248738,29,,S,Southampton
+325,0,Not Survived,3,Third Class,Sage, Mr. George John Jr,,Male,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+326,1,Survived,1,First Class,Young, Miss. Marie Grice,,Female,36,Adult,0,0,0,PC 17760,135.63,C32,C,Cherbourg
+327,0,Not Survived,3,Third Class,Nysveen, Mr. Johan Hansen,,Male,61,Old,0,0,0,345364,6.24,,S,Southampton
+328,1,Survived,2,Second Class,Ball, Mrs. Ada,E Hall),Female,36,Adult,0,0,0,28551,13,D,S,Southampton
+329,1,Survived,3,Third Class,Goldsmith, Mrs. Frank John ,Emily Alice Brown),Female,31,Adult,1,1,2,363291,20.53,,S,Southampton
+330,1,Survived,1,First Class,Hippach, Miss. Jean Gertrude,,Female,16,Youth,0,1,1,111361,57.98,B18,C,Cherbourg
+331,1,Survived,3,Third Class,McCoy, Miss. Agnes,,Female,30,Adult,2,0,2,367226,23.25,,Q,Queenstown
+332,0,Not Survived,1,First Class,Partner, Mr. Austen,,Male,46,Adult,0,0,0,113043,28.5,C124,S,Southampton
+333,0,Not Survived,1,First Class,Graham, Mr. George Edward,,Male,38,Adult,0,1,1,PC 17582,153.46,C91,S,Southampton
+334,0,Not Survived,3,Third Class,Vander Planke, Mr. Leo Edmondus,,Male,16,Youth,2,0,2,345764,18,,S,Southampton
+335,1,Survived,1,First Class,Frauenthal, Mrs. Henry William ,Clara Heinsheimer),Female,30,Adult,1,0,1,PC 17611,133.65,,S,Southampton
+336,0,Not Survived,3,Third Class,Denkoff, Mr. Mitto,,Male,30,Adult,0,0,0,349225,7.9,,S,Southampton
+337,0,Not Survived,1,First Class,Pears, Mr. Thomas Clinton,,Male,29,Adult,1,0,1,113776,66.6,C2,S,Southampton
+338,1,Survived,1,First Class,Burns, Miss. Elizabeth Margaret,,Female,41,Adult,0,0,0,16966,134.5,E40,C,Cherbourg
+339,1,Survived,3,Third Class,Dahl, Mr. Karl Edwart,,Male,45,Adult,0,0,0,7598,8.05,,S,Southampton
+340,0,Not Survived,1,First Class,Blackwell, Mr. Stephen Weart,,Male,45,Adult,0,0,0,113784,35.5,T,S,Southampton
+341,1,Survived,2,Second Class,Navratil, Master. Edmond Roger,,Male,2,Children,1,1,2,230080,26,F2,S,Southampton
+342,1,Survived,1,First Class,Fortune, Miss. Alice Elizabeth,,Female,24,Youth,3,2,5,19950,263,C23 C25 C27,S,Southampton
+343,0,Not Survived,2,Second Class,Collander, Mr. Erik Gustaf,,Male,28,Adult,0,0,0,248740,13,,S,Southampton
+344,0,Not Survived,2,Second Class,Sedgwick, Mr. Charles Frederick Waddington,,Male,25,Youth,0,0,0,244361,13,,S,Southampton
+345,0,Not Survived,2,Second Class,Fox, Mr. Stanley Hubert,,Male,36,Adult,0,0,0,229236,13,,S,Southampton
+346,1,Survived,2,Second Class,Brown," Miss. Amelia ""Mildred""",,Female,24,Youth,0,0,0,248733,13,F33,S,Southampton
+347,1,Survived,2,Second Class,Smith, Miss. Marion Elsie,,Female,40,Adult,0,0,0,31418,13,,S,Southampton
+348,1,Survived,3,Third Class,Davison, Mrs. Thomas Henry ,Mary E Finck),Female,30,Adult,1,0,1,386525,16.1,,S,Southampton
+349,1,Survived,3,Third Class,Coutts," Master. William Loch ""William""",,Male,3,Children,1,1,2,C.A. 37671,15.9,,S,Southampton
+350,0,Not Survived,3,Third Class,Dimic, Mr. Jovan,,Male,42,Adult,0,0,0,315088,8.66,,S,Southampton
+351,0,Not Survived,3,Third Class,Odahl, Mr. Nils Martin,,Male,23,Youth,0,0,0,7267,9.23,,S,Southampton
+352,0,Not Survived,1,First Class,Williams-Lambert, Mr. Fletcher Fellows,,Male,30,Adult,0,0,0,113510,35,C128,S,Southampton
+353,0,Not Survived,3,Third Class,Elias, Mr. Tannous,,Male,15,Children,1,1,2,2695,7.23,,C,Cherbourg
+354,0,Not Survived,3,Third Class,Arnold-Franchi, Mr. Josef,,Male,25,Youth,1,0,1,349237,17.8,,S,Southampton
+355,0,Not Survived,3,Third Class,Yousif, Mr. Wazli,,Male,30,Adult,0,0,0,2647,7.23,,C,Cherbourg
+356,0,Not Survived,3,Third Class,Vanden Steen, Mr. Leo Peter,,Male,28,Adult,0,0,0,345783,9.5,,S,Southampton
+357,1,Survived,1,First Class,Bowerman, Miss. Elsie Edith,,Female,22,Youth,0,1,1,113505,55,E33,S,Southampton
+358,0,Not Survived,2,Second Class,Funk, Miss. Annie Clemmer,,Female,38,Adult,0,0,0,237671,13,,S,Southampton
+359,1,Survived,3,Third Class,McGovern, Miss. Mary,,Female,30,Adult,0,0,0,330931,7.88,,Q,Queenstown
+360,1,Survived,3,Third Class,Mockler," Miss. Helen Mary ""Ellie""",,Female,30,Adult,0,0,0,330980,7.88,,Q,Queenstown
+361,0,Not Survived,3,Third Class,Skoog, Mr. Wilhelm,,Male,40,Adult,1,4,5,347088,27.9,,S,Southampton
+362,0,Not Survived,2,Second Class,del Carlo, Mr. Sebastiano,,Male,29,Adult,1,0,1,SC/PARIS 2167,27.72,,C,Cherbourg
+363,0,Not Survived,3,Third Class,Barbara, Mrs. Catherine ,David),Female,45,Adult,0,1,1,2691,14.45,,C,Cherbourg
+364,0,Not Survived,3,Third Class,Asim, Mr. Adola,,Male,35,Adult,0,0,0,SOTON/O.Q. 3101310,7.05,,S,Southampton
+365,0,Not Survived,3,Third Class,O'Brien, Mr. Thomas,,Male,30,Adult,1,0,1,370365,15.5,,Q,Queenstown
+366,0,Not Survived,3,Third Class,Adahl, Mr. Mauritz Nils Martin,,Male,30,Adult,0,0,0,C 7076,7.25,,S,Southampton
+367,1,Survived,1,First Class,Warren, Mrs. Frank Manley ,Anna Sophia Atkinson),Female,60,Adult,1,0,1,110813,75.25,D37,C,Cherbourg
+368,1,Survived,3,Third Class,Moussa, Mrs. Mantoura,Boulos),Female,30,Adult,0,0,0,2626,7.23,,C,Cherbourg
+369,1,Survived,3,Third Class,Jermyn, Miss. Annie,,Female,30,Adult,0,0,0,14313,7.75,,Q,Queenstown
+370,1,Survived,1,First Class,Aubart, Mme. Leontine Pauline,,Female,24,Youth,0,0,0,PC 17477,69.3,B35,C,Cherbourg
+371,1,Survived,1,First Class,Harder, Mr. George Achilles,,Male,25,Youth,1,0,1,11765,55.44,E50,C,Cherbourg
+372,0,Not Survived,3,Third Class,Wiklund, Mr. Jakob Alfred,,Male,18,Youth,1,0,1,3101267,6.5,,S,Southampton
+373,0,Not Survived,3,Third Class,Beavan, Mr. William Thomas,,Male,19,Youth,0,0,0,323951,8.05,,S,Southampton
+374,0,Not Survived,1,First Class,Ringhini, Mr. Sante,,Male,22,Youth,0,0,0,PC 17760,135.63,,C,Cherbourg
+375,0,Not Survived,3,Third Class,Palsson, Miss. Stina Viola,,Female,3,Children,3,1,4,349909,21.08,,S,Southampton
+376,1,Survived,1,First Class,Meyer, Mrs. Edgar Joseph ,Leila Saks),Female,30,Adult,1,0,1,PC 17604,82.17,,C,Cherbourg
+377,1,Survived,3,Third Class,Landergren, Miss. Aurora Adelia,,Female,22,Youth,0,0,0,C 7077,7.25,,S,Southampton
+378,0,Not Survived,1,First Class,Widener, Mr. Harry Elkins,,Male,27,Adult,0,2,2,113503,211.5,C82,C,Cherbourg
+379,0,Not Survived,3,Third Class,Betros, Mr. Tannous,,Male,20,Youth,0,0,0,2648,4.01,,C,Cherbourg
+380,0,Not Survived,3,Third Class,Gustafsson, Mr. Karl Gideon,,Male,19,Youth,0,0,0,347069,7.78,,S,Southampton
+381,1,Survived,1,First Class,Bidois, Miss. Rosalie,,Female,42,Adult,0,0,0,PC 17757,227.53,,C,Cherbourg
+382,1,Survived,3,Third Class,Nakid, Miss. Maria ,Mary),Female,1,Children,0,2,2,2653,15.74,,C,Cherbourg
+383,0,Not Survived,3,Third Class,Tikkanen, Mr. Juho,,Male,32,Adult,0,0,0,STON/O 2. 3101293,7.93,,S,Southampton
+384,1,Survived,1,First Class,Holverson, Mrs. Alexander Oskar ,Mary Aline Towner),Female,35,Adult,1,0,1,113789,52,,S,Southampton
+385,0,Not Survived,3,Third Class,Plotcharsky, Mr. Vasil,,Male,30,Adult,0,0,0,349227,7.9,,S,Southampton
+386,0,Not Survived,2,Second Class,Davies, Mr. Charles Henry,,Male,18,Youth,0,0,0,S.O.C. 14879,73.5,,S,Southampton
+387,0,Not Survived,3,Third Class,Goodwin, Master. Sidney Leonard,,Male,1,Children,5,2,7,CA 2144,46.9,,S,Southampton
+388,1,Survived,2,Second Class,Buss, Miss. Kate,,Female,36,Adult,0,0,0,27849,13,,S,Southampton
+389,0,Not Survived,3,Third Class,Sadlier, Mr. Matthew,,Male,30,Adult,0,0,0,367655,7.73,,Q,Queenstown
+390,1,Survived,2,Second Class,Lehmann, Miss. Bertha,,Female,17,Youth,0,0,0,SC 1748,12,,C,Cherbourg
+391,1,Survived,1,First Class,Carter, Mr. William Ernest,,Male,36,Adult,1,2,3,113760,120,B96 B98,S,Southampton
+392,1,Survived,3,Third Class,Jansson, Mr. Carl Olof,,Male,21,Youth,0,0,0,350034,7.8,,S,Southampton
+393,0,Not Survived,3,Third Class,Gustafsson, Mr. Johan Birger,,Male,28,Adult,2,0,2,3101277,7.93,,S,Southampton
+394,1,Survived,1,First Class,Newell, Miss. Marjorie,,Female,23,Youth,1,0,1,35273,113.28,D36,C,Cherbourg
+395,1,Survived,3,Third Class,Sandstrom, Mrs. Hjalmar ,Agnes Charlotta Bengtsson),Female,24,Youth,0,2,2,PP 9549,16.7,G6,S,Southampton
+396,0,Not Survived,3,Third Class,Johansson, Mr. Erik,,Male,22,Youth,0,0,0,350052,7.8,,S,Southampton
+397,0,Not Survived,3,Third Class,Olsson, Miss. Elina,,Female,31,Adult,0,0,0,350407,7.85,,S,Southampton
+398,0,Not Survived,2,Second Class,McKane, Mr. Peter David,,Male,46,Adult,0,0,0,28403,26,,S,Southampton
+399,0,Not Survived,2,Second Class,Pain, Dr. Alfred,,Male,23,Youth,0,0,0,244278,10.5,,S,Southampton
+400,1,Survived,2,Second Class,Trout, Mrs. William H ,Jessie L),Female,28,Adult,0,0,0,240929,12.65,,S,Southampton
+401,1,Survived,3,Third Class,Niskanen, Mr. Juha,,Male,39,Adult,0,0,0,STON/O 2. 3101289,7.93,,S,Southampton
+402,0,Not Survived,3,Third Class,Adams, Mr. John,,Male,26,Adult,0,0,0,341826,8.05,,S,Southampton
+403,0,Not Survived,3,Third Class,Jussila, Miss. Mari Aina,,Female,21,Youth,1,0,1,4137,9.83,,S,Southampton
+404,0,Not Survived,3,Third Class,Hakkarainen, Mr. Pekka Pietari,,Male,28,Adult,1,0,1,STON/O2. 3101279,15.85,,S,Southampton
+405,0,Not Survived,3,Third Class,Oreskovic, Miss. Marija,,Female,20,Youth,0,0,0,315096,8.66,,S,Southampton
+406,0,Not Survived,2,Second Class,Gale, Mr. Shadrach,,Male,34,Adult,1,0,1,28664,21,,S,Southampton
+407,0,Not Survived,3,Third Class,Widegren, Mr. Carl/Charles Peter,,Male,51,Adult,0,0,0,347064,7.75,,S,Southampton
+408,1,Survived,2,Second Class,Richards, Master. William Rowe,,Male,3,Children,1,1,2,29106,18.75,,S,Southampton
+409,0,Not Survived,3,Third Class,Birkeland, Mr. Hans Martin Monsen,,Male,21,Youth,0,0,0,312992,7.78,,S,Southampton
+410,0,Not Survived,3,Third Class,Lefebre, Miss. Ida,,Female,30,Adult,3,1,4,4133,25.47,,S,Southampton
+411,0,Not Survived,3,Third Class,Sdycoff, Mr. Todor,,Male,30,Adult,0,0,0,349222,7.9,,S,Southampton
+412,0,Not Survived,3,Third Class,Hart, Mr. Henry,,Male,30,Adult,0,0,0,394140,6.86,,Q,Queenstown
+413,1,Survived,1,First Class,Minahan, Miss. Daisy E,,Female,33,Adult,1,0,1,19928,90,C78,Q,Queenstown
+414,0,Not Survived,2,Second Class,Cunningham, Mr. Alfred Fleming,,Male,30,Adult,0,0,0,239853,0,,S,Southampton
+415,1,Survived,3,Third Class,Sundman, Mr. Johan Julian,,Male,44,Adult,0,0,0,STON/O 2. 3101269,7.93,,S,Southampton
+416,0,Not Survived,3,Third Class,Meek, Mrs. Thomas ,Annie Louise Rowley),Female,30,Adult,0,0,0,343095,8.05,,S,Southampton
+417,1,Survived,2,Second Class,Drew, Mrs. James Vivian ,Lulu Thorne Christian),Female,34,Adult,1,1,2,28220,32.5,,S,Southampton
+418,1,Survived,2,Second Class,Silven, Miss. Lyyli Karoliina,,Female,18,Youth,0,2,2,250652,13,,S,Southampton
+419,0,Not Survived,2,Second Class,Matthews, Mr. William John,,Male,30,Adult,0,0,0,28228,13,,S,Southampton
+420,0,Not Survived,3,Third Class,Van Impe, Miss. Catharina,,Female,10,Children,0,2,2,345773,24.15,,S,Southampton
+421,0,Not Survived,3,Third Class,Gheorgheff, Mr. Stanio,,Male,30,Adult,0,0,0,349254,7.9,,C,Cherbourg
+422,0,Not Survived,3,Third Class,Charters, Mr. David,,Male,21,Youth,0,0,0,A/5. 13032,7.73,,Q,Queenstown
+423,0,Not Survived,3,Third Class,Zimmerman, Mr. Leo,,Male,29,Adult,0,0,0,315082,7.88,,S,Southampton
+424,0,Not Survived,3,Third Class,Danbom, Mrs. Ernst Gilbert ,Anna Sigrid Maria Brogren),Female,28,Adult,1,1,2,347080,14.4,,S,Southampton
+425,0,Not Survived,3,Third Class,Rosblom, Mr. Viktor Richard,,Male,18,Youth,1,1,2,370129,20.21,,S,Southampton
+426,0,Not Survived,3,Third Class,Wiseman, Mr. Phillippe,,Male,30,Adult,0,0,0,A/4. 34244,7.25,,S,Southampton
+427,1,Survived,2,Second Class,Clarke, Mrs. Charles V ,Ada Maria Winfield),Female,28,Adult,1,0,1,2003,26,,S,Southampton
+428,1,Survived,2,Second Class,Phillips, Miss. Kate Florence ,Mrs Kate Louise Phillips Marshall),Female,19,Youth,0,0,0,250655,26,,S,Southampton
+429,0,Not Survived,3,Third Class,Flynn, Mr. James,,Male,30,Adult,0,0,0,364851,7.75,,Q,Queenstown
+430,1,Survived,3,Third Class,Pickard, Mr. Berk ,Berk Trembisky),Male,32,Adult,0,0,0,SOTON/O.Q. 392078,8.05,E10,S,Southampton
+431,1,Survived,1,First Class,Bjornstrom-Steffansson, Mr. Mauritz Hakan,,Male,28,Adult,0,0,0,110564,26.55,C52,S,Southampton
+432,1,Survived,3,Third Class,Thorneycroft, Mrs. Percival ,Florence Kate White),Female,30,Adult,1,0,1,376564,16.1,,S,Southampton
+433,1,Survived,2,Second Class,Louch, Mrs. Charles Alexander ,Alice Adelaide Slow),Female,42,Adult,1,0,1,SC/AH 3085,26,,S,Southampton
+434,0,Not Survived,3,Third Class,Kallio, Mr. Nikolai Erland,,Male,17,Youth,0,0,0,STON/O 2. 3101274,7.13,,S,Southampton
+435,0,Not Survived,1,First Class,Silvey, Mr. William Baird,,Male,50,Adult,1,0,1,13507,55.9,E44,S,Southampton
+436,1,Survived,1,First Class,Carter, Miss. Lucile Polk,,Female,14,Children,1,2,3,113760,120,B96 B98,S,Southampton
+437,0,Not Survived,3,Third Class,Ford," Miss. Doolina Margaret ""Daisy""",,Female,21,Youth,2,2,4,W./C. 6608,34.38,,S,Southampton
+438,1,Survived,2,Second Class,Richards, Mrs. Sidney ,Emily Hocking),Female,24,Youth,2,3,5,29106,18.75,,S,Southampton
+439,0,Not Survived,1,First Class,Fortune, Mr. Mark,,Male,64,Old,1,4,5,19950,263,C23 C25 C27,S,Southampton
+440,0,Not Survived,2,Second Class,Kvillner, Mr. Johan Henrik Johannesson,,Male,31,Adult,0,0,0,C.A. 18723,10.5,,S,Southampton
+441,1,Survived,2,Second Class,Hart, Mrs. Benjamin ,Esther Ada Bloomfield),Female,45,Adult,1,1,2,F.C.C. 13529,26.25,,S,Southampton
+442,0,Not Survived,3,Third Class,Hampe, Mr. Leon,,Male,20,Youth,0,0,0,345769,9.5,,S,Southampton
+443,0,Not Survived,3,Third Class,Petterson, Mr. Johan Emil,,Male,25,Youth,1,0,1,347076,7.78,,S,Southampton
+444,1,Survived,2,Second Class,Reynaldo, Ms. Encarnacion,,Female,28,Adult,0,0,0,230434,13,,S,Southampton
+445,1,Survived,3,Third Class,Johannesen-Bratthammer, Mr. Bernt,,Male,30,Adult,0,0,0,65306,8.11,,S,Southampton
+446,1,Survived,1,First Class,Dodge, Master. Washington,,Male,4,Children,0,2,2,33638,81.86,A34,S,Southampton
+447,1,Survived,2,Second Class,Mellinger, Miss. Madeleine Violet,,Female,13,Children,0,1,1,250644,19.5,,S,Southampton
+448,1,Survived,1,First Class,Seward, Mr. Frederic Kimber,,Male,34,Adult,0,0,0,113794,26.55,,S,Southampton
+449,1,Survived,3,Third Class,Baclini, Miss. Marie Catherine,,Female,5,Children,2,1,3,2666,19.26,,C,Cherbourg
+450,1,Survived,1,First Class,Peuchen, Major. Arthur Godfrey,,Male,52,Adult,0,0,0,113786,30.5,C104,S,Southampton
+451,0,Not Survived,2,Second Class,West, Mr. Edwy Arthur,,Male,36,Adult,1,2,3,C.A. 34651,27.75,,S,Southampton
+452,0,Not Survived,3,Third Class,Hagland, Mr. Ingvald Olai Olsen,,Male,30,Adult,1,0,1,65303,19.97,,S,Southampton
+453,0,Not Survived,1,First Class,Foreman, Mr. Benjamin Laventall,,Male,30,Adult,0,0,0,113051,27.75,C111,C,Cherbourg
+454,1,Survived,1,First Class,Goldenberg, Mr. Samuel L,,Male,49,Adult,1,0,1,17453,89.1,C92,C,Cherbourg
+455,0,Not Survived,3,Third Class,Peduzzi, Mr. Joseph,,Male,30,Adult,0,0,0,A/5 2817,8.05,,S,Southampton
+456,1,Survived,3,Third Class,Jalsevac, Mr. Ivan,,Male,29,Adult,0,0,0,349240,7.9,,C,Cherbourg
+457,0,Not Survived,1,First Class,Millet, Mr. Francis Davis,,Male,65,Old,0,0,0,13509,26.55,E38,S,Southampton
+458,1,Survived,1,First Class,Kenyon, Mrs. Frederick R ,Marion),Female,30,Adult,1,0,1,17464,51.86,D21,S,Southampton
+459,1,Survived,2,Second Class,Toomey, Miss. Ellen,,Female,50,Adult,0,0,0,F.C.C. 13531,10.5,,S,Southampton
+460,0,Not Survived,3,Third Class,O'Connor, Mr. Maurice,,Male,30,Adult,0,0,0,371060,7.75,,Q,Queenstown
+461,1,Survived,1,First Class,Anderson, Mr. Harry,,Male,48,Adult,0,0,0,19952,26.55,E12,S,Southampton
+462,0,Not Survived,3,Third Class,Morley, Mr. William,,Male,34,Adult,0,0,0,364506,8.05,,S,Southampton
+463,0,Not Survived,1,First Class,Gee, Mr. Arthur H,,Male,47,Adult,0,0,0,111320,38.5,E63,S,Southampton
+464,0,Not Survived,2,Second Class,Milling, Mr. Jacob Christian,,Male,48,Adult,0,0,0,234360,13,,S,Southampton
+465,0,Not Survived,3,Third Class,Maisner, Mr. Simon,,Male,30,Adult,0,0,0,A/S 2816,8.05,,S,Southampton
+466,0,Not Survived,3,Third Class,Goncalves, Mr. Manuel Estanslas,,Male,38,Adult,0,0,0,SOTON/O.Q. 3101306,7.05,,S,Southampton
+467,0,Not Survived,2,Second Class,Campbell, Mr. William,,Male,30,Adult,0,0,0,239853,0,,S,Southampton
+468,0,Not Survived,1,First Class,Smart, Mr. John Montgomery,,Male,56,Adult,0,0,0,113792,26.55,,S,Southampton
+469,0,Not Survived,3,Third Class,Scanlan, Mr. James,,Male,30,Adult,0,0,0,36209,7.73,,Q,Queenstown
+470,1,Survived,3,Third Class,Baclini, Miss. Helene Barbara,,Female,1,Children,2,1,3,2666,19.26,,C,Cherbourg
+471,0,Not Survived,3,Third Class,Keefe, Mr. Arthur,,Male,30,Adult,0,0,0,323592,7.25,,S,Southampton
+472,0,Not Survived,3,Third Class,Cacic, Mr. Luka,,Male,38,Adult,0,0,0,315089,8.66,,S,Southampton
+473,1,Survived,2,Second Class,West, Mrs. Edwy Arthur ,Ada Mary Worth),Female,33,Adult,1,2,3,C.A. 34651,27.75,,S,Southampton
+474,1,Survived,2,Second Class,Jerwan, Mrs. Amin S ,Marie Marthe Thuillard),Female,23,Youth,0,0,0,SC/AH Basle 541,13.79,D,C,Cherbourg
+475,0,Not Survived,3,Third Class,Strandberg, Miss. Ida Sofia,,Female,22,Youth,0,0,0,7553,9.84,,S,Southampton
+476,0,Not Survived,1,First Class,Clifford, Mr. George Quincy,,Male,30,Adult,0,0,0,110465,52,A14,S,Southampton
+477,0,Not Survived,2,Second Class,Renouf, Mr. Peter Henry,,Male,34,Adult,1,0,1,31027,21,,S,Southampton
+478,0,Not Survived,3,Third Class,Braund, Mr. Lewis Richard,,Male,29,Adult,1,0,1,3460,7.05,,S,Southampton
+479,0,Not Survived,3,Third Class,Karlsson, Mr. Nils August,,Male,22,Youth,0,0,0,350060,7.52,,S,Southampton
+480,1,Survived,3,Third Class,Hirvonen, Miss. Hildur E,,Female,2,Children,0,1,1,3101298,12.29,,S,Southampton
+481,0,Not Survived,3,Third Class,Goodwin, Master. Harold Victor,,Male,9,Children,5,2,7,CA 2144,46.9,,S,Southampton
+482,0,Not Survived,2,Second Class,Frost," Mr. Anthony Wood ""Archie""",,Male,30,Adult,0,0,0,239854,0,,S,Southampton
+483,0,Not Survived,3,Third Class,Rouse, Mr. Richard Henry,,Male,50,Adult,0,0,0,A/5 3594,8.05,,S,Southampton
+484,1,Survived,3,Third Class,Turkula, Mrs. ,Hedwig),Female,63,Old,0,0,0,4134,9.59,,S,Southampton
+485,1,Survived,1,First Class,Bishop, Mr. Dickinson H,,Male,25,Youth,1,0,1,11967,91.08,B49,C,Cherbourg
+486,0,Not Survived,3,Third Class,Lefebre, Miss. Jeannie,,Female,30,Adult,3,1,4,4133,25.47,,S,Southampton
+487,1,Survived,1,First Class,Hoyt, Mrs. Frederick Maxfield ,Jane Anne Forby),Female,35,Adult,1,0,1,19943,90,C93,S,Southampton
+488,0,Not Survived,1,First Class,Kent, Mr. Edward Austin,,Male,58,Adult,0,0,0,11771,29.7,B37,C,Cherbourg
+489,0,Not Survived,3,Third Class,Somerton, Mr. Francis William,,Male,30,Adult,0,0,0,A.5. 18509,8.05,,S,Southampton
+490,1,Survived,3,Third Class,Coutts," Master. Eden Leslie ""Neville""",,Male,9,Children,1,1,2,C.A. 37671,15.9,,S,Southampton
+491,0,Not Survived,3,Third Class,Hagland, Mr. Konrad Mathias Reiersen,,Male,30,Adult,1,0,1,65304,19.97,,S,Southampton
+492,0,Not Survived,3,Third Class,Windelov, Mr. Einar,,Male,21,Youth,0,0,0,SOTON/OQ 3101317,7.25,,S,Southampton
+493,0,Not Survived,1,First Class,Molson, Mr. Harry Markland,,Male,55,Adult,0,0,0,113787,30.5,C30,S,Southampton
+494,0,Not Survived,1,First Class,Artagaveytia, Mr. Ramon,,Male,71,Old,0,0,0,PC 17609,49.5,,C,Cherbourg
+495,0,Not Survived,3,Third Class,Stanley, Mr. Edward Roland,,Male,21,Youth,0,0,0,A/4 45380,8.05,,S,Southampton
+496,0,Not Survived,3,Third Class,Yousseff, Mr. Gerious,,Male,30,Adult,0,0,0,2627,14.46,,C,Cherbourg
+497,1,Survived,1,First Class,Eustis, Miss. Elizabeth Mussey,,Female,54,Adult,1,0,1,36947,78.27,D20,C,Cherbourg
+498,0,Not Survived,3,Third Class,Shellard, Mr. Frederick William,,Male,30,Adult,0,0,0,C.A. 6212,15.1,,S,Southampton
+499,0,Not Survived,1,First Class,Allison, Mrs. Hudson J C ,Bessie Waldo Daniels),Female,25,Youth,1,2,3,113781,151.55,C22 C26,S,Southampton
+500,0,Not Survived,3,Third Class,Svensson, Mr. Olof,,Male,24,Youth,0,0,0,350035,7.8,,S,Southampton
+501,0,Not Survived,3,Third Class,Calic, Mr. Petar,,Male,17,Youth,0,0,0,315086,8.66,,S,Southampton
+502,0,Not Survived,3,Third Class,Canavan, Miss. Mary,,Female,21,Youth,0,0,0,364846,7.75,,Q,Queenstown
+503,0,Not Survived,3,Third Class,O'Sullivan, Miss. Bridget Mary,,Female,30,Adult,0,0,0,330909,7.63,,Q,Queenstown
+504,0,Not Survived,3,Third Class,Laitinen, Miss. Kristina Sofia,,Female,37,Adult,0,0,0,4135,9.59,,S,Southampton
+505,1,Survived,1,First Class,Maioni, Miss. Roberta,,Female,16,Youth,0,0,0,110152,86.5,B79,S,Southampton
+506,0,Not Survived,1,First Class,Penasco y Castellana, Mr. Victor de Satode,,Male,18,Youth,1,0,1,PC 17758,108.9,C65,C,Cherbourg
+507,1,Survived,2,Second Class,Quick, Mrs. Frederick Charles ,Jane Richards),Female,33,Adult,0,2,2,26360,26,,S,Southampton
+508,1,Survived,1,First Class,Bradley, Mr. George ,George Arthur Brayton),Male,30,Adult,0,0,0,111427,26.55,,S,Southampton
+509,0,Not Survived,3,Third Class,Olsen, Mr. Henry Margido,,Male,28,Adult,0,0,0,C 4001,22.53,,S,Southampton
+510,1,Survived,3,Third Class,Lang, Mr. Fang,,Male,26,Adult,0,0,0,1601,56.5,,S,Southampton
+511,1,Survived,3,Third Class,Daly, Mr. Eugene Patrick,,Male,29,Adult,0,0,0,382651,7.75,,Q,Queenstown
+512,0,Not Survived,3,Third Class,Webber, Mr. James,,Male,30,Adult,0,0,0,SOTON/OQ 3101316,8.05,,S,Southampton
+513,1,Survived,1,First Class,McGough, Mr. James Robert,,Male,36,Adult,0,0,0,PC 17473,26.29,E25,S,Southampton
+514,1,Survived,1,First Class,Rothschild, Mrs. Martin ,Elizabeth L. Barrett),Female,54,Adult,1,0,1,PC 17603,59.4,,C,Cherbourg
+515,0,Not Survived,3,Third Class,Coleff, Mr. Satio,,Male,24,Youth,0,0,0,349209,7.5,,S,Southampton
+516,0,Not Survived,1,First Class,Walker, Mr. William Anderson,,Male,47,Adult,0,0,0,36967,34.02,D46,S,Southampton
+517,1,Survived,2,Second Class,Lemore, Mrs. Amelia,Milley),Female,34,Adult,0,0,0,C.A. 34260,10.5,F33,S,Southampton
+518,0,Not Survived,3,Third Class,Ryan, Mr. Patrick,,Male,30,Adult,0,0,0,371110,24.15,,Q,Queenstown
+519,1,Survived,2,Second Class,Angle, Mrs. William A ,"Florence ""Mary"" Agnes Hughes)",Female,36,Adult,1,0,1,226875,26,,S,Southampton
+520,0,Not Survived,3,Third Class,Pavlovic, Mr. Stefo,,Male,32,Adult,0,0,0,349242,7.9,,S,Southampton
+521,1,Survived,1,First Class,Perreault, Miss. Anne,,Female,30,Adult,0,0,0,12749,93.5,B73,S,Southampton
+522,0,Not Survived,3,Third Class,Vovk, Mr. Janko,,Male,22,Youth,0,0,0,349252,7.9,,S,Southampton
+523,0,Not Survived,3,Third Class,Lahoud, Mr. Sarkis,,Male,30,Adult,0,0,0,2624,7.23,,C,Cherbourg
+524,1,Survived,1,First Class,Hippach, Mrs. Louis Albert ,Ida Sophia Fischer),Female,44,Adult,0,1,1,111361,57.98,B18,C,Cherbourg
+525,0,Not Survived,3,Third Class,Kassem, Mr. Fared,,Male,30,Adult,0,0,0,2700,7.23,,C,Cherbourg
+526,0,Not Survived,3,Third Class,Farrell, Mr. James,,Male,41,Adult,0,0,0,367232,7.75,,Q,Queenstown
+527,1,Survived,2,Second Class,Ridsdale, Miss. Lucy,,Female,50,Adult,0,0,0,W./C. 14258,10.5,,S,Southampton
+528,0,Not Survived,1,First Class,Farthing, Mr. John,,Male,30,Adult,0,0,0,PC 17483,221.78,C95,S,Southampton
+529,0,Not Survived,3,Third Class,Salonen, Mr. Johan Werner,,Male,39,Adult,0,0,0,3101296,7.93,,S,Southampton
+530,0,Not Survived,2,Second Class,Hocking, Mr. Richard George,,Male,23,Youth,2,1,3,29104,11.5,,S,Southampton
+531,1,Survived,2,Second Class,Quick, Miss. Phyllis May,,Female,2,Children,1,1,2,26360,26,,S,Southampton
+532,0,Not Survived,3,Third Class,Toufik, Mr. Nakli,,Male,30,Adult,0,0,0,2641,7.23,,C,Cherbourg
+533,0,Not Survived,3,Third Class,Elias, Mr. Joseph Jr,,Male,17,Youth,1,1,2,2690,7.23,,C,Cherbourg
+534,1,Survived,3,Third Class,Peter, Mrs. Catherine ,Catherine Rizk),Female,30,Adult,0,2,2,2668,22.36,,C,Cherbourg
+535,0,Not Survived,3,Third Class,Cacic, Miss. Marija,,Female,30,Adult,0,0,0,315084,8.66,,S,Southampton
+536,1,Survived,2,Second Class,Hart, Miss. Eva Miriam,,Female,7,Children,0,2,2,F.C.C. 13529,26.25,,S,Southampton
+537,0,Not Survived,1,First Class,Butt, Major. Archibald Willingham,,Male,45,Adult,0,0,0,113050,26.55,B38,S,Southampton
+538,1,Survived,1,First Class,LeRoy, Miss. Bertha,,Female,30,Adult,0,0,0,PC 17761,106.43,,C,Cherbourg
+539,0,Not Survived,3,Third Class,Risien, Mr. Samuel Beard,,Male,30,Adult,0,0,0,364498,14.5,,S,Southampton
+540,1,Survived,1,First Class,Frolicher, Miss. Hedwig Margaritha,,Female,22,Youth,0,2,2,13568,49.5,B39,C,Cherbourg
+541,1,Survived,1,First Class,Crosby, Miss. Harriet R,,Female,36,Adult,0,2,2,WE/P 5735,71,B22,S,Southampton
+542,0,Not Survived,3,Third Class,Andersson, Miss. Ingeborg Constanzia,,Female,9,Children,4,2,6,347082,31.28,,S,Southampton
+543,0,Not Survived,3,Third Class,Andersson, Miss. Sigrid Elisabeth,,Female,11,Children,4,2,6,347082,31.28,,S,Southampton
+544,1,Survived,2,Second Class,Beane, Mr. Edward,,Male,32,Adult,1,0,1,2908,26,,S,Southampton
+545,0,Not Survived,1,First Class,Douglas, Mr. Walter Donald,,Male,50,Adult,1,0,1,PC 17761,106.43,C86,C,Cherbourg
+546,0,Not Survived,1,First Class,Nicholson, Mr. Arthur Ernest,,Male,64,Old,0,0,0,693,26,,S,Southampton
+547,1,Survived,2,Second Class,Beane, Mrs. Edward ,Ethel Clarke),Female,19,Youth,1,0,1,2908,26,,S,Southampton
+548,1,Survived,2,Second Class,Padro y Manent, Mr. Julian,,Male,30,Adult,0,0,0,SC/PARIS 2146,13.86,,C,Cherbourg
+549,0,Not Survived,3,Third Class,Goldsmith, Mr. Frank John,,Male,33,Adult,1,1,2,363291,20.53,,S,Southampton
+550,1,Survived,2,Second Class,Davies, Master. John Morgan Jr,,Male,8,Children,1,1,2,C.A. 33112,36.75,,S,Southampton
+551,1,Survived,1,First Class,Thayer, Mr. John Borland Jr,,Male,17,Youth,0,2,2,17421,110.88,C70,C,Cherbourg
+552,0,Not Survived,2,Second Class,Sharp, Mr. Percival James R,,Male,27,Adult,0,0,0,244358,26,,S,Southampton
+553,0,Not Survived,3,Third Class,O'Brien, Mr. Timothy,,Male,30,Adult,0,0,0,330979,7.83,,Q,Queenstown
+554,1,Survived,3,Third Class,Leeni, Mr. Fahim ,Philip Zenni),Male,22,Youth,0,0,0,2620,7.23,,C,Cherbourg
+555,1,Survived,3,Third Class,Ohman, Miss. Velin,,Female,22,Youth,0,0,0,347085,7.78,,S,Southampton
+556,0,Not Survived,1,First Class,Wright, Mr. George,,Male,62,Old,0,0,0,113807,26.55,,S,Southampton
+557,1,Survived,1,First Class,Duff Gordon, Lady. Lucille ,Christiana Sutherland) ,Female,48,Adult,1,0,1,11755,39.6,A16,C,Cherbourg
+558,0,Not Survived,1,First Class,Robbins, Mr. Victor,,Male,30,Adult,0,0,0,PC 17757,227.53,,C,Cherbourg
+559,1,Survived,1,First Class,Taussig, Mrs. Emil ,Tillie Mandelbaum),Female,39,Adult,1,1,2,110413,79.65,E67,S,Southampton
+560,1,Survived,3,Third Class,de Messemaeker, Mrs. Guillaume Joseph ,Emma),Female,36,Adult,1,0,1,345572,17.4,,S,Southampton
+561,0,Not Survived,3,Third Class,Morrow, Mr. Thomas Rowan,,Male,30,Adult,0,0,0,372622,7.75,,Q,Queenstown
+562,0,Not Survived,3,Third Class,Sivic, Mr. Husein,,Male,40,Adult,0,0,0,349251,7.9,,S,Southampton
+563,0,Not Survived,2,Second Class,Norman, Mr. Robert Douglas,,Male,28,Adult,0,0,0,218629,13.5,,S,Southampton
+564,0,Not Survived,3,Third Class,Simmons, Mr. John,,Male,30,Adult,0,0,0,SOTON/OQ 392082,8.05,,S,Southampton
+565,0,Not Survived,3,Third Class,Meanwell, Miss. Marion,Ogden),Female,30,Adult,0,0,0,SOTON/O.Q. 392087,8.05,,S,Southampton
+566,0,Not Survived,3,Third Class,Davies, Mr. Alfred J,,Male,24,Youth,2,0,2,A/4 48871,24.15,,S,Southampton
+567,0,Not Survived,3,Third Class,Stoytcheff, Mr. Ilia,,Male,19,Youth,0,0,0,349205,7.9,,S,Southampton
+568,0,Not Survived,3,Third Class,Palsson, Mrs. Nils ,Alma Cornelia Berglund),Female,29,Adult,0,4,4,349909,21.08,,S,Southampton
+569,0,Not Survived,3,Third Class,Doharr, Mr. Tannous,,Male,30,Adult,0,0,0,2686,7.23,,C,Cherbourg
+570,1,Survived,3,Third Class,Jonsson, Mr. Carl,,Male,32,Adult,0,0,0,350417,7.85,,S,Southampton
+571,1,Survived,2,Second Class,Harris, Mr. George,,Male,62,Old,0,0,0,S.W./PP 752,10.5,,S,Southampton
+572,1,Survived,1,First Class,Appleton, Mrs. Edward Dale ,Charlotte Lamson),Female,53,Adult,2,0,2,11769,51.48,C101,S,Southampton
+573,1,Survived,1,First Class,Flynn, Mr. John Irwin ,Irving),Male,36,Adult,0,0,0,PC 17474,26.39,E25,S,Southampton
+574,1,Survived,3,Third Class,Kelly, Miss. Mary,,Female,30,Adult,0,0,0,14312,7.75,,Q,Queenstown
+575,0,Not Survived,3,Third Class,Rush, Mr. Alfred George John,,Male,16,Youth,0,0,0,A/4. 20589,8.05,,S,Southampton
+576,0,Not Survived,3,Third Class,Patchett, Mr. George,,Male,19,Youth,0,0,0,358585,14.5,,S,Southampton
+577,1,Survived,2,Second Class,Garside, Miss. Ethel,,Female,34,Adult,0,0,0,243880,13,,S,Southampton
+578,1,Survived,1,First Class,Silvey, Mrs. William Baird ,Alice Munger),Female,39,Adult,1,0,1,13507,55.9,E44,S,Southampton
+579,0,Not Survived,3,Third Class,Caram, Mrs. Joseph ,Maria Elias),Female,30,Adult,1,0,1,2689,14.46,,C,Cherbourg
+580,1,Survived,3,Third Class,Jussila, Mr. Eiriik,,Male,32,Adult,0,0,0,STON/O 2. 3101286,7.93,,S,Southampton
+581,1,Survived,2,Second Class,Christy, Miss. Julie Rachel,,Female,25,Youth,1,1,2,237789,30,,S,Southampton
+582,1,Survived,1,First Class,Thayer, Mrs. John Borland ,Marian Longstreth Morris),Female,39,Adult,1,1,2,17421,110.88,C68,C,Cherbourg
+583,0,Not Survived,2,Second Class,Downton, Mr. William James,,Male,54,Adult,0,0,0,28403,26,,S,Southampton
+584,0,Not Survived,1,First Class,Ross, Mr. John Hugo,,Male,36,Adult,0,0,0,13049,40.13,A10,C,Cherbourg
+585,0,Not Survived,3,Third Class,Paulner, Mr. Uscher,,Male,30,Adult,0,0,0,3411,8.71,,C,Cherbourg
+586,1,Survived,1,First Class,Taussig, Miss. Ruth,,Female,18,Youth,0,2,2,110413,79.65,E68,S,Southampton
+587,0,Not Survived,2,Second Class,Jarvis, Mr. John Denzil,,Male,47,Adult,0,0,0,237565,15,,S,Southampton
+588,1,Survived,1,First Class,Frolicher-Stehli, Mr. Maxmillian,,Male,60,Adult,1,1,2,13567,79.2,B41,C,Cherbourg
+589,0,Not Survived,3,Third Class,Gilinski, Mr. Eliezer,,Male,22,Youth,0,0,0,14973,8.05,,S,Southampton
+590,0,Not Survived,3,Third Class,Murdlin, Mr. Joseph,,Male,30,Adult,0,0,0,A./5. 3235,8.05,,S,Southampton
+591,0,Not Survived,3,Third Class,Rintamaki, Mr. Matti,,Male,35,Adult,0,0,0,STON/O 2. 3101273,7.13,,S,Southampton
+592,1,Survived,1,First Class,Stephenson, Mrs. Walter Bertram ,Martha Eustis),Female,52,Adult,1,0,1,36947,78.27,D20,C,Cherbourg
+593,0,Not Survived,3,Third Class,Elsbury, Mr. William James,,Male,47,Adult,0,0,0,A/5 3902,7.25,,S,Southampton
+594,0,Not Survived,3,Third Class,Bourke, Miss. Mary,,Female,30,Adult,0,2,2,364848,7.75,,Q,Queenstown
+595,0,Not Survived,2,Second Class,Chapman, Mr. John Henry,,Male,37,Adult,1,0,1,SC/AH 29037,26,,S,Southampton
+596,0,Not Survived,3,Third Class,Van Impe, Mr. Jean Baptiste,,Male,36,Adult,1,1,2,345773,24.15,,S,Southampton
+597,1,Survived,2,Second Class,Leitch, Miss. Jessie Wills,,Female,30,Adult,0,0,0,248727,33,,S,Southampton
+598,0,Not Survived,3,Third Class,Johnson, Mr. Alfred,,Male,49,Adult,0,0,0,LINE,0,,S,Southampton
+599,0,Not Survived,3,Third Class,Boulos, Mr. Hanna,,Male,30,Adult,0,0,0,2664,7.23,,C,Cherbourg
+600,1,Survived,1,First Class,Duff Gordon, Sir. Cosmo Edmund ,Mr Morgan),Male,49,Adult,1,0,1,PC 17485,56.93,A20,C,Cherbourg
+601,1,Survived,2,Second Class,Jacobsohn, Mrs. Sidney Samuel ,Amy Frances Christy),Female,24,Youth,2,1,3,243847,27,,S,Southampton
+602,0,Not Survived,3,Third Class,Slabenoff, Mr. Petco,,Male,30,Adult,0,0,0,349214,7.9,,S,Southampton
+603,0,Not Survived,1,First Class,Harrington, Mr. Charles H,,Male,30,Adult,0,0,0,113796,42.4,,S,Southampton
+604,0,Not Survived,3,Third Class,Torber, Mr. Ernst William,,Male,44,Adult,0,0,0,364511,8.05,,S,Southampton
+605,1,Survived,1,First Class,Homer, Mr. Harry ,Mr E Haven),Male,35,Adult,0,0,0,111426,26.55,,C,Cherbourg
+606,0,Not Survived,3,Third Class,Lindell, Mr. Edvard Bengtsson,,Male,36,Adult,1,0,1,349910,15.55,,S,Southampton
+607,0,Not Survived,3,Third Class,Karaic, Mr. Milan,,Male,30,Adult,0,0,0,349246,7.9,,S,Southampton
+608,1,Survived,1,First Class,Daniel, Mr. Robert Williams,,Male,27,Adult,0,0,0,113804,30.5,,S,Southampton
+609,1,Survived,2,Second Class,Laroche, Mrs. Joseph ,Juliette Marie Louise Lafargue),Female,22,Youth,1,2,3,SC/Paris 2123,41.58,,C,Cherbourg
+610,1,Survived,1,First Class,Shutes, Miss. Elizabeth W,,Female,40,Adult,0,0,0,PC 17582,153.46,C125,S,Southampton
+611,0,Not Survived,3,Third Class,Andersson, Mrs. Anders Johan ,Alfrida Konstantia Brogren),Female,39,Adult,1,5,6,347082,31.28,,S,Southampton
+612,0,Not Survived,3,Third Class,Jardin, Mr. Jose Neto,,Male,30,Adult,0,0,0,SOTON/O.Q. 3101305,7.05,,S,Southampton
+613,1,Survived,3,Third Class,Murphy, Miss. Margaret Jane,,Female,30,Adult,1,0,1,367230,15.5,,Q,Queenstown
+614,0,Not Survived,3,Third Class,Horgan, Mr. John,,Male,30,Adult,0,0,0,370377,7.75,,Q,Queenstown
+615,0,Not Survived,3,Third Class,Brocklebank, Mr. William Alfred,,Male,35,Adult,0,0,0,364512,8.05,,S,Southampton
+616,1,Survived,2,Second Class,Herman, Miss. Alice,,Female,24,Youth,1,2,3,220845,65,,S,Southampton
+617,0,Not Survived,3,Third Class,Danbom, Mr. Ernst Gilbert,,Male,34,Adult,1,1,2,347080,14.4,,S,Southampton
+618,0,Not Survived,3,Third Class,Lobb, Mrs. William Arthur ,Cordelia K Stanlick),Female,26,Adult,1,0,1,A/5. 3336,16.1,,S,Southampton
+619,1,Survived,2,Second Class,Becker, Miss. Marion Louise,,Female,4,Children,2,1,3,230136,39,F4,S,Southampton
+620,0,Not Survived,2,Second Class,Gavey, Mr. Lawrence,,Male,26,Adult,0,0,0,31028,10.5,,S,Southampton
+621,0,Not Survived,3,Third Class,Yasbeck, Mr. Antoni,,Male,27,Adult,1,0,1,2659,14.45,,C,Cherbourg
+622,1,Survived,1,First Class,Kimball, Mr. Edwin Nelson Jr,,Male,42,Adult,1,0,1,11753,52.55,D19,S,Southampton
+623,1,Survived,3,Third Class,Nakid, Mr. Sahid,,Male,20,Youth,1,1,2,2653,15.74,,C,Cherbourg
+624,0,Not Survived,3,Third Class,Hansen, Mr. Henry Damsgaard,,Male,21,Youth,0,0,0,350029,7.85,,S,Southampton
+625,0,Not Survived,3,Third Class,Bowen," Mr. David John ""Dai""",,Male,21,Youth,0,0,0,54636,16.1,,S,Southampton
+626,0,Not Survived,1,First Class,Sutton, Mr. Frederick,,Male,61,Old,0,0,0,36963,32.32,D50,S,Southampton
+627,0,Not Survived,2,Second Class,Kirkland, Rev. Charles Leonard,,Male,57,Adult,0,0,0,219533,12.35,,Q,Queenstown
+628,1,Survived,1,First Class,Longley, Miss. Gretchen Fiske,,Female,21,Youth,0,0,0,13502,77.96,D9,S,Southampton
+629,0,Not Survived,3,Third Class,Bostandyeff, Mr. Guentcho,,Male,26,Adult,0,0,0,349224,7.9,,S,Southampton
+630,0,Not Survived,3,Third Class,O'Connell, Mr. Patrick D,,Male,30,Adult,0,0,0,334912,7.73,,Q,Queenstown
+631,1,Survived,1,First Class,Barkworth, Mr. Algernon Henry Wilson,,Male,80,Old,0,0,0,27042,30,A23,S,Southampton
+632,0,Not Survived,3,Third Class,Lundahl, Mr. Johan Svensson,,Male,51,Adult,0,0,0,347743,7.05,,S,Southampton
+633,1,Survived,1,First Class,Stahelin-Maeglin, Dr. Max,,Male,32,Adult,0,0,0,13214,30.5,B50,C,Cherbourg
+634,0,Not Survived,1,First Class,Parr, Mr. William Henry Marsh,,Male,30,Adult,0,0,0,112052,0,,S,Southampton
+635,0,Not Survived,3,Third Class,Skoog, Miss. Mabel,,Female,9,Children,3,2,5,347088,27.9,,S,Southampton
+636,1,Survived,2,Second Class,Davis, Miss. Mary,,Female,28,Adult,0,0,0,237668,13,,S,Southampton
+637,0,Not Survived,3,Third Class,Leinonen, Mr. Antti Gustaf,,Male,32,Adult,0,0,0,STON/O 2. 3101292,7.93,,S,Southampton
+638,0,Not Survived,2,Second Class,Collyer, Mr. Harvey,,Male,31,Adult,1,1,2,C.A. 31921,26.25,,S,Southampton
+639,0,Not Survived,3,Third Class,Panula, Mrs. Juha ,Maria Emilia Ojala),Female,41,Adult,0,5,5,3101295,39.69,,S,Southampton
+640,0,Not Survived,3,Third Class,Thorneycroft, Mr. Percival,,Male,30,Adult,1,0,1,376564,16.1,,S,Southampton
+641,0,Not Survived,3,Third Class,Jensen, Mr. Hans Peder,,Male,20,Youth,0,0,0,350050,7.85,,S,Southampton
+642,1,Survived,1,First Class,Sagesser, Mlle. Emma,,Female,24,Youth,0,0,0,PC 17477,69.3,B35,C,Cherbourg
+643,0,Not Survived,3,Third Class,Skoog, Miss. Margit Elizabeth,,Female,2,Children,3,2,5,347088,27.9,,S,Southampton
+644,1,Survived,3,Third Class,Foo, Mr. Choong,,Male,30,Adult,0,0,0,1601,56.5,,S,Southampton
+645,1,Survived,3,Third Class,Baclini, Miss. Eugenie,,Female,1,Children,2,1,3,2666,19.26,,C,Cherbourg
+646,1,Survived,1,First Class,Harper, Mr. Henry Sleeper,,Male,48,Adult,1,0,1,PC 17572,76.73,D33,C,Cherbourg
+647,0,Not Survived,3,Third Class,Cor, Mr. Liudevit,,Male,19,Youth,0,0,0,349231,7.9,,S,Southampton
+648,1,Survived,1,First Class,Simonius-Blumer, Col. Oberst Alfons,,Male,56,Adult,0,0,0,13213,35.5,A26,C,Cherbourg
+649,0,Not Survived,3,Third Class,Willey, Mr. Edward,,Male,30,Adult,0,0,0,S.O./P.P. 751,7.55,,S,Southampton
+650,1,Survived,3,Third Class,Stanley, Miss. Amy Zillah Elsie,,Female,23,Youth,0,0,0,CA. 2314,7.55,,S,Southampton
+651,0,Not Survived,3,Third Class,Mitkoff, Mr. Mito,,Male,30,Adult,0,0,0,349221,7.9,,S,Southampton
+652,1,Survived,2,Second Class,Doling, Miss. Elsie,,Female,18,Youth,0,1,1,231919,23,,S,Southampton
+653,0,Not Survived,3,Third Class,Kalvik, Mr. Johannes Halvorsen,,Male,21,Youth,0,0,0,8475,8.43,,S,Southampton
+654,1,Survived,3,Third Class,O'Leary," Miss. Hanora ""Norah""",,Female,30,Adult,0,0,0,330919,7.83,,Q,Queenstown
+655,0,Not Survived,3,Third Class,Hegarty," Miss. Hanora ""Nora""",,Female,18,Youth,0,0,0,365226,6.75,,Q,Queenstown
+656,0,Not Survived,2,Second Class,Hickman, Mr. Leonard Mark,,Male,24,Youth,2,0,2,S.O.C. 14879,73.5,,S,Southampton
+657,0,Not Survived,3,Third Class,Radeff, Mr. Alexander,,Male,30,Adult,0,0,0,349223,7.9,,S,Southampton
+658,0,Not Survived,3,Third Class,Bourke, Mrs. John ,Catherine),Female,32,Adult,1,1,2,364849,15.5,,Q,Queenstown
+659,0,Not Survived,2,Second Class,Eitemiller, Mr. George Floyd,,Male,23,Youth,0,0,0,29751,13,,S,Southampton
+660,0,Not Survived,1,First Class,Newell, Mr. Arthur Webster,,Male,58,Adult,0,2,2,35273,113.28,D48,C,Cherbourg
+661,1,Survived,1,First Class,Frauenthal, Dr. Henry William,,Male,50,Adult,2,0,2,PC 17611,133.65,,S,Southampton
+662,0,Not Survived,3,Third Class,Badt, Mr. Mohamed,,Male,40,Adult,0,0,0,2623,7.23,,C,Cherbourg
+663,0,Not Survived,1,First Class,Colley, Mr. Edward Pomeroy,,Male,47,Adult,0,0,0,5727,25.59,E58,S,Southampton
+664,0,Not Survived,3,Third Class,Coleff, Mr. Peju,,Male,36,Adult,0,0,0,349210,7.5,,S,Southampton
+665,1,Survived,3,Third Class,Lindqvist, Mr. Eino William,,Male,20,Youth,1,0,1,STON/O 2. 3101285,7.93,,S,Southampton
+666,0,Not Survived,2,Second Class,Hickman, Mr. Lewis,,Male,32,Adult,2,0,2,S.O.C. 14879,73.5,,S,Southampton
+667,0,Not Survived,2,Second Class,Butler, Mr. Reginald Fenton,,Male,25,Youth,0,0,0,234686,13,,S,Southampton
+668,0,Not Survived,3,Third Class,Rommetvedt, Mr. Knud Paust,,Male,30,Adult,0,0,0,312993,7.78,,S,Southampton
+669,0,Not Survived,3,Third Class,Cook, Mr. Jacob,,Male,43,Adult,0,0,0,A/5 3536,8.05,,S,Southampton
+670,1,Survived,1,First Class,Taylor, Mrs. Elmer Zebley ,Juliet Cummins Wright),Female,30,Adult,1,0,1,19996,52,C126,S,Southampton
+671,1,Survived,2,Second Class,Brown, Mrs. Thomas William Solomon ,Elizabeth Catherine Ford),Female,40,Adult,1,1,2,29750,39,,S,Southampton
+672,0,Not Survived,1,First Class,Davidson, Mr. Thornton,,Male,31,Adult,1,0,1,F.C. 12750,52,B71,S,Southampton
+673,0,Not Survived,2,Second Class,Mitchell, Mr. Henry Michael,,Male,70,Old,0,0,0,C.A. 24580,10.5,,S,Southampton
+674,1,Survived,2,Second Class,Wilhelms, Mr. Charles,,Male,31,Adult,0,0,0,244270,13,,S,Southampton
+675,0,Not Survived,2,Second Class,Watson, Mr. Ennis Hastings,,Male,30,Adult,0,0,0,239856,0,,S,Southampton
+676,0,Not Survived,3,Third Class,Edvardsson, Mr. Gustaf Hjalmar,,Male,18,Youth,0,0,0,349912,7.78,,S,Southampton
+677,0,Not Survived,3,Third Class,Sawyer, Mr. Frederick Charles,,Male,25,Youth,0,0,0,342826,8.05,,S,Southampton
+678,1,Survived,3,Third Class,Turja, Miss. Anna Sofia,,Female,18,Youth,0,0,0,4138,9.84,,S,Southampton
+679,0,Not Survived,3,Third Class,Goodwin, Mrs. Frederick ,Augusta Tyler),Female,43,Adult,1,6,7,CA 2144,46.9,,S,Southampton
+680,1,Survived,1,First Class,Cardeza, Mr. Thomas Drake Martinez,,Male,36,Adult,0,1,1,PC 17755,512.33,B51 B53 B55,C,Cherbourg
+681,0,Not Survived,3,Third Class,Peters, Miss. Katie,,Female,30,Adult,0,0,0,330935,8.14,,Q,Queenstown
+682,1,Survived,1,First Class,Hassab, Mr. Hammad,,Male,27,Adult,0,0,0,PC 17572,76.73,D49,C,Cherbourg
+683,0,Not Survived,3,Third Class,Olsvigen, Mr. Thor Anderson,,Male,20,Youth,0,0,0,6563,9.23,,S,Southampton
+684,0,Not Survived,3,Third Class,Goodwin, Mr. Charles Edward,,Male,14,Children,5,2,7,CA 2144,46.9,,S,Southampton
+685,0,Not Survived,2,Second Class,Brown, Mr. Thomas William Solomon,,Male,60,Adult,1,1,2,29750,39,,S,Southampton
+686,0,Not Survived,2,Second Class,Laroche, Mr. Joseph Philippe Lemercier,,Male,25,Youth,1,2,3,SC/Paris 2123,41.58,,C,Cherbourg
+687,0,Not Survived,3,Third Class,Panula, Mr. Jaako Arnold,,Male,14,Children,4,1,5,3101295,39.69,,S,Southampton
+688,0,Not Survived,3,Third Class,Dakic, Mr. Branko,,Male,19,Youth,0,0,0,349228,10.17,,S,Southampton
+689,0,Not Survived,3,Third Class,Fischer, Mr. Eberhard Thelander,,Male,18,Youth,0,0,0,350036,7.8,,S,Southampton
+690,1,Survived,1,First Class,Madill, Miss. Georgette Alexandra,,Female,15,Children,0,1,1,24160,211.34,B5,S,Southampton
+691,1,Survived,1,First Class,Dick, Mr. Albert Adrian,,Male,31,Adult,1,0,1,17474,57,B20,S,Southampton
+692,1,Survived,3,Third Class,Karun, Miss. Manca,,Female,4,Children,0,1,1,349256,13.42,,C,Cherbourg
+693,1,Survived,3,Third Class,Lam, Mr. Ali,,Male,30,Adult,0,0,0,1601,56.5,,S,Southampton
+694,0,Not Survived,3,Third Class,Saad, Mr. Khalil,,Male,25,Youth,0,0,0,2672,7.23,,C,Cherbourg
+695,0,Not Survived,1,First Class,Weir, Col. John,,Male,60,Adult,0,0,0,113800,26.55,,S,Southampton
+696,0,Not Survived,2,Second Class,Chapman, Mr. Charles Henry,,Male,52,Adult,0,0,0,248731,13.5,,S,Southampton
+697,0,Not Survived,3,Third Class,Kelly, Mr. James,,Male,44,Adult,0,0,0,363592,8.05,,S,Southampton
+698,1,Survived,3,Third Class,Mullens," Miss. Katherine ""Katie""",,Female,30,Adult,0,0,0,35852,7.73,,Q,Queenstown
+699,0,Not Survived,1,First Class,Thayer, Mr. John Borland,,Male,49,Adult,1,1,2,17421,110.88,C68,C,Cherbourg
+700,0,Not Survived,3,Third Class,Humblen, Mr. Adolf Mathias Nicolai Olsen,,Male,42,Adult,0,0,0,348121,7.65,F G63,S,Southampton
+701,1,Survived,1,First Class,Astor, Mrs. John Jacob ,Madeleine Talmadge Force),Female,18,Youth,1,0,1,PC 17757,227.53,C62 C64,C,Cherbourg
+702,1,Survived,1,First Class,Silverthorne, Mr. Spencer Victor,,Male,35,Adult,0,0,0,PC 17475,26.29,E24,S,Southampton
+703,0,Not Survived,3,Third Class,Barbara, Miss. Saiide,,Female,18,Youth,0,1,1,2691,14.45,,C,Cherbourg
+704,0,Not Survived,3,Third Class,Gallagher, Mr. Martin,,Male,25,Youth,0,0,0,36864,7.74,,Q,Queenstown
+705,0,Not Survived,3,Third Class,Hansen, Mr. Henrik Juul,,Male,26,Adult,1,0,1,350025,7.85,,S,Southampton
+706,0,Not Survived,2,Second Class,Morley, Mr. Henry Samuel ,Mr Henry Marshall),Male,39,Adult,0,0,0,250655,26,,S,Southampton
+707,1,Survived,2,Second Class,Kelly," Mrs. Florence ""Fannie""",,Female,45,Adult,0,0,0,223596,13.5,,S,Southampton
+708,1,Survived,1,First Class,Calderhead, Mr. Edward Pennington,,Male,42,Adult,0,0,0,PC 17476,26.29,E24,S,Southampton
+709,1,Survived,1,First Class,Cleaver, Miss. Alice,,Female,22,Youth,0,0,0,113781,151.55,,S,Southampton
+710,1,Survived,3,Third Class,Moubarek, Master. Halim Gonios ,William George),Male,30,Adult,1,1,2,2661,15.25,,C,Cherbourg
+711,1,Survived,1,First Class,Mayne, Mlle. Berthe Antonine ,Mrs de Villiers),Female,24,Youth,0,0,0,PC 17482,49.5,C90,C,Cherbourg
+712,0,Not Survived,1,First Class,Klaber, Mr. Herman,,Male,30,Adult,0,0,0,113028,26.55,C124,S,Southampton
+713,1,Survived,1,First Class,Taylor, Mr. Elmer Zebley,,Male,48,Adult,1,0,1,19996,52,C126,S,Southampton
+714,0,Not Survived,3,Third Class,Larsson, Mr. August Viktor,,Male,29,Adult,0,0,0,7545,9.48,,S,Southampton
+715,0,Not Survived,2,Second Class,Greenberg, Mr. Samuel,,Male,52,Adult,0,0,0,250647,13,,S,Southampton
+716,0,Not Survived,3,Third Class,Soholt, Mr. Peter Andreas Lauritz Andersen,,Male,19,Youth,0,0,0,348124,7.65,F G73,S,Southampton
+717,1,Survived,1,First Class,Endres, Miss. Caroline Louise,,Female,38,Adult,0,0,0,PC 17757,227.53,C45,C,Cherbourg
+718,1,Survived,2,Second Class,Troutt," Miss. Edwina Celia ""Winnie""",,Female,27,Adult,0,0,0,34218,10.5,E101,S,Southampton
+719,0,Not Survived,3,Third Class,McEvoy, Mr. Michael,,Male,30,Adult,0,0,0,36568,15.5,,Q,Queenstown
+720,0,Not Survived,3,Third Class,Johnson, Mr. Malkolm Joackim,,Male,33,Adult,0,0,0,347062,7.78,,S,Southampton
+721,1,Survived,2,Second Class,Harper," Miss. Annie Jessie ""Nina""",,Female,6,Children,0,1,1,248727,33,,S,Southampton
+722,0,Not Survived,3,Third Class,Jensen, Mr. Svend Lauritz,,Male,17,Youth,1,0,1,350048,7.05,,S,Southampton
+723,0,Not Survived,2,Second Class,Gillespie, Mr. William Henry,,Male,34,Adult,0,0,0,12233,13,,S,Southampton
+724,0,Not Survived,2,Second Class,Hodges, Mr. Henry Price,,Male,50,Adult,0,0,0,250643,13,,S,Southampton
+725,1,Survived,1,First Class,Chambers, Mr. Norman Campbell,,Male,27,Adult,1,0,1,113806,53.1,E8,S,Southampton
+726,0,Not Survived,3,Third Class,Oreskovic, Mr. Luka,,Male,20,Youth,0,0,0,315094,8.66,,S,Southampton
+727,1,Survived,2,Second Class,Renouf, Mrs. Peter Henry ,Lillian Jefferys),Female,30,Adult,3,0,3,31027,21,,S,Southampton
+728,1,Survived,3,Third Class,Mannion, Miss. Margareth,,Female,30,Adult,0,0,0,36866,7.74,,Q,Queenstown
+729,0,Not Survived,2,Second Class,Bryhl, Mr. Kurt Arnold Gottfrid,,Male,25,Youth,1,0,1,236853,26,,S,Southampton
+730,0,Not Survived,3,Third Class,Ilmakangas, Miss. Pieta Sofia,,Female,25,Youth,1,0,1,STON/O2. 3101271,7.93,,S,Southampton
+731,1,Survived,1,First Class,Allen, Miss. Elisabeth Walton,,Female,29,Adult,0,0,0,24160,211.34,B5,S,Southampton
+732,0,Not Survived,3,Third Class,Hassan, Mr. Houssein G N,,Male,11,Children,0,0,0,2699,18.79,,C,Cherbourg
+733,0,Not Survived,2,Second Class,Knight, Mr. Robert J,,Male,30,Adult,0,0,0,239855,0,,S,Southampton
+734,0,Not Survived,2,Second Class,Berriman, Mr. William John,,Male,23,Youth,0,0,0,28425,13,,S,Southampton
+735,0,Not Survived,2,Second Class,Troupiansky, Mr. Moses Aaron,,Male,23,Youth,0,0,0,233639,13,,S,Southampton
+736,0,Not Survived,3,Third Class,Williams, Mr. Leslie,,Male,29,Adult,0,0,0,54636,16.1,,S,Southampton
+737,0,Not Survived,3,Third Class,Ford, Mrs. Edward ,Margaret Ann Watson),Female,48,Adult,1,3,4,W./C. 6608,34.38,,S,Southampton
+738,1,Survived,1,First Class,Lesurer, Mr. Gustave J,,Male,35,Adult,0,0,0,PC 17755,512.33,B101,C,Cherbourg
+739,0,Not Survived,3,Third Class,Ivanoff, Mr. Kanio,,Male,30,Adult,0,0,0,349201,7.9,,S,Southampton
+740,0,Not Survived,3,Third Class,Nankoff, Mr. Minko,,Male,30,Adult,0,0,0,349218,7.9,,S,Southampton
+741,1,Survived,1,First Class,Hawksford, Mr. Walter James,,Male,30,Adult,0,0,0,16988,30,D45,S,Southampton
+742,0,Not Survived,1,First Class,Cavendish, Mr. Tyrell William,,Male,36,Adult,1,0,1,19877,78.85,C46,S,Southampton
+743,1,Survived,1,First Class,Ryerson," Miss. Susan Parker ""Suzette""",,Female,21,Youth,2,2,4,PC 17608,262.38,B57 B59 B63 B66,C,Cherbourg
+744,0,Not Survived,3,Third Class,McNamee, Mr. Neal,,Male,24,Youth,1,0,1,376566,16.1,,S,Southampton
+745,1,Survived,3,Third Class,Stranden, Mr. Juho,,Male,31,Adult,0,0,0,STON/O 2. 3101288,7.93,,S,Southampton
+746,0,Not Survived,1,First Class,Crosby, Capt. Edward Gifford,,Male,70,Old,1,1,2,WE/P 5735,71,B22,S,Southampton
+747,0,Not Survived,3,Third Class,Abbott, Mr. Rossmore Edward,,Male,16,Youth,1,1,2,C.A. 2673,20.25,,S,Southampton
+748,1,Survived,2,Second Class,Sinkkonen, Miss. Anna,,Female,30,Adult,0,0,0,250648,13,,S,Southampton
+749,0,Not Survived,1,First Class,Marvin, Mr. Daniel Warner,,Male,19,Youth,1,0,1,113773,53.1,D30,S,Southampton
+750,0,Not Survived,3,Third Class,Connaghton, Mr. Michael,,Male,31,Adult,0,0,0,335097,7.75,,Q,Queenstown
+751,1,Survived,2,Second Class,Wells, Miss. Joan,,Female,4,Children,1,1,2,29103,23,,S,Southampton
+752,1,Survived,3,Third Class,Moor, Master. Meier,,Male,6,Children,0,1,1,392096,12.48,E121,S,Southampton
+753,0,Not Survived,3,Third Class,Vande Velde, Mr. Johannes Joseph,,Male,33,Adult,0,0,0,345780,9.5,,S,Southampton
+754,0,Not Survived,3,Third Class,Jonkoff, Mr. Lalio,,Male,23,Youth,0,0,0,349204,7.9,,S,Southampton
+755,1,Survived,2,Second Class,Herman, Mrs. Samuel ,Jane Laver),Female,48,Adult,1,2,3,220845,65,,S,Southampton
+756,1,Survived,2,Second Class,Hamalainen, Master. Viljo,,Male,1,Children,1,1,2,250649,14.5,,S,Southampton
+757,0,Not Survived,3,Third Class,Carlsson, Mr. August Sigfrid,,Male,28,Adult,0,0,0,350042,7.8,,S,Southampton
+758,0,Not Survived,2,Second Class,Bailey, Mr. Percy Andrew,,Male,18,Youth,0,0,0,29108,11.5,,S,Southampton
+759,0,Not Survived,3,Third Class,Theobald, Mr. Thomas Leonard,,Male,34,Adult,0,0,0,363294,8.05,,S,Southampton
+760,1,Survived,1,First Class,Rothes, the Countess. of ,Lucy Noel Martha Dyer-Edwards),Female,33,Adult,0,0,0,110152,86.5,B77,S,Southampton
+761,0,Not Survived,3,Third Class,Garfirth, Mr. John,,Male,30,Adult,0,0,0,358585,14.5,,S,Southampton
+762,0,Not Survived,3,Third Class,Nirva, Mr. Iisakki Antino Aijo,,Male,41,Adult,0,0,0,SOTON/O2 3101272,7.13,,S,Southampton
+763,1,Survived,3,Third Class,Barah, Mr. Hanna Assi,,Male,20,Youth,0,0,0,2663,7.23,,C,Cherbourg
+764,1,Survived,1,First Class,Carter, Mrs. William Ernest ,Lucile Polk),Female,36,Adult,1,2,3,113760,120,B96 B98,S,Southampton
+765,0,Not Survived,3,Third Class,Eklund, Mr. Hans Linus,,Male,16,Youth,0,0,0,347074,7.78,,S,Southampton
+766,1,Survived,1,First Class,Hogeboom, Mrs. John C ,Anna Andrews),Female,51,Adult,1,0,1,13502,77.96,D11,S,Southampton
+767,0,Not Survived,1,First Class,Brewe, Dr. Arthur Jackson,,Male,30,Adult,0,0,0,112379,39.6,,C,Cherbourg
+768,0,Not Survived,3,Third Class,Mangan, Miss. Mary,,Female,31,Adult,0,0,0,364850,7.75,,Q,Queenstown
+769,0,Not Survived,3,Third Class,Moran, Mr. Daniel J,,Male,30,Adult,1,0,1,371110,24.15,,Q,Queenstown
+770,0,Not Survived,3,Third Class,Gronnestad, Mr. Daniel Danielsen,,Male,32,Adult,0,0,0,8471,8.36,,S,Southampton
+771,0,Not Survived,3,Third Class,Lievens, Mr. Rene Aime,,Male,24,Youth,0,0,0,345781,9.5,,S,Southampton
+772,0,Not Survived,3,Third Class,Jensen, Mr. Niels Peder,,Male,48,Adult,0,0,0,350047,7.85,,S,Southampton
+773,0,Not Survived,2,Second Class,Mack, Mrs. Mary,,Female,57,Adult,0,0,0,S.O./P.P. 3,10.5,E77,S,Southampton
+774,0,Not Survived,3,Third Class,Elias, Mr. Dibo,,Male,30,Adult,0,0,0,2674,7.23,,C,Cherbourg
+775,1,Survived,2,Second Class,Hocking, Mrs. Elizabeth ,Eliza Needs),Female,54,Adult,1,3,4,29105,23,,S,Southampton
+776,0,Not Survived,3,Third Class,Myhrman, Mr. Pehr Fabian Oliver Malkolm,,Male,18,Youth,0,0,0,347078,7.75,,S,Southampton
+777,0,Not Survived,3,Third Class,Tobin, Mr. Roger,,Male,30,Adult,0,0,0,383121,7.75,F38,Q,Queenstown
+778,1,Survived,3,Third Class,Emanuel, Miss. Virginia Ethel,,Female,5,Children,0,0,0,364516,12.48,,S,Southampton
+779,0,Not Survived,3,Third Class,Kilgannon, Mr. Thomas J,,Male,30,Adult,0,0,0,36865,7.74,,Q,Queenstown
+780,1,Survived,1,First Class,Robert, Mrs. Edward Scott ,Elisabeth Walton McMillan),Female,43,Adult,0,1,1,24160,211.34,B3,S,Southampton
+781,1,Survived,3,Third Class,Ayoub, Miss. Banoura,,Female,13,Children,0,0,0,2687,7.23,,C,Cherbourg
+782,1,Survived,1,First Class,Dick, Mrs. Albert Adrian ,Vera Gillespie),Female,17,Youth,1,0,1,17474,57,B20,S,Southampton
+783,0,Not Survived,1,First Class,Long, Mr. Milton Clyde,,Male,29,Adult,0,0,0,113501,30,D6,S,Southampton
+784,0,Not Survived,3,Third Class,Johnston, Mr. Andrew G,,Male,30,Adult,1,2,3,W./C. 6607,23.45,,S,Southampton
+785,0,Not Survived,3,Third Class,Ali, Mr. William,,Male,25,Youth,0,0,0,SOTON/O.Q. 3101312,7.05,,S,Southampton
+786,0,Not Survived,3,Third Class,Harmer, Mr. Abraham ,David Lishin),Male,25,Youth,0,0,0,374887,7.25,,S,Southampton
+787,1,Survived,3,Third Class,Sjoblom, Miss. Anna Sofia,,Female,18,Youth,0,0,0,3101265,7.5,,S,Southampton
+788,0,Not Survived,3,Third Class,Rice, Master. George Hugh,,Male,8,Children,4,1,5,382652,29.13,,Q,Queenstown
+789,1,Survived,3,Third Class,Dean, Master. Bertram Vere,,Male,1,Children,1,2,3,C.A. 2315,20.58,,S,Southampton
+790,0,Not Survived,1,First Class,Guggenheim, Mr. Benjamin,,Male,46,Adult,0,0,0,PC 17593,79.2,B82 B84,C,Cherbourg
+791,0,Not Survived,3,Third Class,Keane," Mr. Andrew ""Andy""",,Male,30,Adult,0,0,0,12460,7.75,,Q,Queenstown
+792,0,Not Survived,2,Second Class,Gaskell, Mr. Alfred,,Male,16,Youth,0,0,0,239865,26,,S,Southampton
+793,0,Not Survived,3,Third Class,Sage, Miss. Stella Anna,,Female,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+794,0,Not Survived,1,First Class,Hoyt, Mr. William Fisher,,Male,30,Adult,0,0,0,PC 17600,30.7,,C,Cherbourg
+795,0,Not Survived,3,Third Class,Dantcheff, Mr. Ristiu,,Male,25,Youth,0,0,0,349203,7.9,,S,Southampton
+796,0,Not Survived,2,Second Class,Otter, Mr. Richard,,Male,39,Adult,0,0,0,28213,13,,S,Southampton
+797,1,Survived,1,First Class,Leader, Dr. Alice ,Farnham),Female,49,Adult,0,0,0,17465,25.93,D17,S,Southampton
+798,1,Survived,3,Third Class,Osman, Mrs. Mara,,Female,31,Adult,0,0,0,349244,8.68,,S,Southampton
+799,0,Not Survived,3,Third Class,Ibrahim Shawah, Mr. Yousseff,,Male,30,Adult,0,0,0,2685,7.23,,C,Cherbourg
+800,0,Not Survived,3,Third Class,Van Impe, Mrs. Jean Baptiste ,Rosalie Paula Govaert),Female,30,Adult,1,1,2,345773,24.15,,S,Southampton
+801,0,Not Survived,2,Second Class,Ponesell, Mr. Martin,,Male,34,Adult,0,0,0,250647,13,,S,Southampton
+802,1,Survived,2,Second Class,Collyer, Mrs. Harvey ,Charlotte Annie Tate),Female,31,Adult,1,1,2,C.A. 31921,26.25,,S,Southampton
+803,1,Survived,1,First Class,Carter, Master. William Thornton II,,Male,11,Children,1,2,3,113760,120,B96 B98,S,Southampton
+804,1,Survived,3,Third Class,Thomas, Master. Assad Alexander,,Male,1,Children,0,1,1,2625,8.52,,C,Cherbourg
+805,1,Survived,3,Third Class,Hedman, Mr. Oskar Arvid,,Male,27,Adult,0,0,0,347089,6.98,,S,Southampton
+806,0,Not Survived,3,Third Class,Johansson, Mr. Karl Johan,,Male,31,Adult,0,0,0,347063,7.78,,S,Southampton
+807,0,Not Survived,1,First Class,Andrews, Mr. Thomas Jr,,Male,39,Adult,0,0,0,112050,0,A36,S,Southampton
+808,0,Not Survived,3,Third Class,Pettersson, Miss. Ellen Natalia,,Female,18,Youth,0,0,0,347087,7.78,,S,Southampton
+809,0,Not Survived,2,Second Class,Meyer, Mr. August,,Male,39,Adult,0,0,0,248723,13,,S,Southampton
+810,1,Survived,1,First Class,Chambers, Mrs. Norman Campbell ,Bertha Griggs),Female,33,Adult,1,0,1,113806,53.1,E8,S,Southampton
+811,0,Not Survived,3,Third Class,Alexander, Mr. William,,Male,26,Adult,0,0,0,3474,7.89,,S,Southampton
+812,0,Not Survived,3,Third Class,Lester, Mr. James,,Male,39,Adult,0,0,0,A/4 48871,24.15,,S,Southampton
+813,0,Not Survived,2,Second Class,Slemen, Mr. Richard James,,Male,35,Adult,0,0,0,28206,10.5,,S,Southampton
+814,0,Not Survived,3,Third Class,Andersson, Miss. Ebba Iris Alfrida,,Female,6,Children,4,2,6,347082,31.28,,S,Southampton
+815,0,Not Survived,3,Third Class,Tomlin, Mr. Ernest Portage,,Male,31,Adult,0,0,0,364499,8.05,,S,Southampton
+816,0,Not Survived,1,First Class,Fry, Mr. Richard,,Male,30,Adult,0,0,0,112058,0,B102,S,Southampton
+817,0,Not Survived,3,Third Class,Heininen, Miss. Wendla Maria,,Female,23,Youth,0,0,0,STON/O2. 3101290,7.93,,S,Southampton
+818,0,Not Survived,2,Second Class,Mallet, Mr. Albert,,Male,31,Adult,1,1,2,S.C./PARIS 2079,37,,C,Cherbourg
+819,0,Not Survived,3,Third Class,Holm, Mr. John Fredrik Alexander,,Male,43,Adult,0,0,0,C 7075,6.45,,S,Southampton
+820,0,Not Survived,3,Third Class,Skoog, Master. Karl Thorsten,,Male,10,Children,3,2,5,347088,27.9,,S,Southampton
+821,1,Survived,1,First Class,Hays, Mrs. Charles Melville ,Clara Jennings Gregg),Female,52,Adult,1,1,2,12749,93.5,B69,S,Southampton
+822,1,Survived,3,Third Class,Lulic, Mr. Nikola,,Male,27,Adult,0,0,0,315098,8.66,,S,Southampton
+823,0,Not Survived,1,First Class,Reuchlin, Jonkheer. John George,,Male,38,Adult,0,0,0,19972,0,,S,Southampton
+824,1,Survived,3,Third Class,Moor, Mrs. Beila,,Female,27,Adult,0,1,1,392096,12.48,E121,S,Southampton
+825,0,Not Survived,3,Third Class,Panula, Master. Urho Abraham,,Male,2,Children,4,1,5,3101295,39.69,,S,Southampton
+826,0,Not Survived,3,Third Class,Flynn, Mr. John,,Male,30,Adult,0,0,0,368323,6.95,,Q,Queenstown
+827,0,Not Survived,3,Third Class,Lam, Mr. Len,,Male,30,Adult,0,0,0,1601,56.5,,S,Southampton
+828,1,Survived,2,Second Class,Mallet, Master. Andre,,Male,1,Children,0,2,2,S.C./PARIS 2079,37,,C,Cherbourg
+829,1,Survived,3,Third Class,McCormack, Mr. Thomas Joseph,,Male,30,Adult,0,0,0,367228,7.75,,Q,Queenstown
+830,1,Survived,1,First Class,Stone, Mrs. George Nelson ,Martha Evelyn),Female,62,Old,0,0,0,113572,80,B28,,Invalid
+831,1,Survived,3,Third Class,Yasbeck, Mrs. Antoni ,Selini Alexander),Female,15,Children,1,0,1,2659,14.45,,C,Cherbourg
+832,1,Survived,2,Second Class,Richards, Master. George Sibley,,Male,1,Children,1,1,2,29106,18.75,,S,Southampton
+833,0,Not Survived,3,Third Class,Saad, Mr. Amin,,Male,30,Adult,0,0,0,2671,7.23,,C,Cherbourg
+834,0,Not Survived,3,Third Class,Augustsson, Mr. Albert,,Male,23,Youth,0,0,0,347468,7.85,,S,Southampton
+835,0,Not Survived,3,Third Class,Allum, Mr. Owen George,,Male,18,Youth,0,0,0,2223,8.3,,S,Southampton
+836,1,Survived,1,First Class,Compton, Miss. Sara Rebecca,,Female,39,Adult,1,1,2,PC 17756,83.16,E49,C,Cherbourg
+837,0,Not Survived,3,Third Class,Pasic, Mr. Jakob,,Male,21,Youth,0,0,0,315097,8.66,,S,Southampton
+838,0,Not Survived,3,Third Class,Sirota, Mr. Maurice,,Male,30,Adult,0,0,0,392092,8.05,,S,Southampton
+839,1,Survived,3,Third Class,Chip, Mr. Chang,,Male,32,Adult,0,0,0,1601,56.5,,S,Southampton
+840,1,Survived,1,First Class,Marechal, Mr. Pierre,,Male,30,Adult,0,0,0,11774,29.7,C47,C,Cherbourg
+841,0,Not Survived,3,Third Class,Alhomaki, Mr. Ilmari Rudolf,,Male,20,Youth,0,0,0,SOTON/O2 3101287,7.93,,S,Southampton
+842,0,Not Survived,2,Second Class,Mudd, Mr. Thomas Charles,,Male,16,Youth,0,0,0,S.O./P.P. 3,10.5,,S,Southampton
+843,1,Survived,1,First Class,Serepeca, Miss. Augusta,,Female,30,Adult,0,0,0,113798,31,,C,Cherbourg
+844,0,Not Survived,3,Third Class,Lemberopolous, Mr. Peter L,,Male,35,Adult,0,0,0,2683,6.44,,C,Cherbourg
+845,0,Not Survived,3,Third Class,Culumovic, Mr. Jeso,,Male,17,Youth,0,0,0,315090,8.66,,S,Southampton
+846,0,Not Survived,3,Third Class,Abbing, Mr. Anthony,,Male,42,Adult,0,0,0,C.A. 5547,7.55,,S,Southampton
+847,0,Not Survived,3,Third Class,Sage, Mr. Douglas Bullen,,Male,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+848,0,Not Survived,3,Third Class,Markoff, Mr. Marin,,Male,35,Adult,0,0,0,349213,7.9,,C,Cherbourg
+849,0,Not Survived,2,Second Class,Harper, Rev. John,,Male,28,Adult,0,1,1,248727,33,,S,Southampton
+850,1,Survived,1,First Class,Goldenberg, Mrs. Samuel L ,Edwiga Grabowska),Female,30,Adult,1,0,1,17453,89.1,C92,C,Cherbourg
+851,0,Not Survived,3,Third Class,Andersson, Master. Sigvard Harald Elias,,Male,4,Children,4,2,6,347082,31.28,,S,Southampton
+852,0,Not Survived,3,Third Class,Svensson, Mr. Johan,,Male,74,Old,0,0,0,347060,7.78,,S,Southampton
+853,0,Not Survived,3,Third Class,Boulos, Miss. Nourelain,,Female,9,Children,1,1,2,2678,15.25,,C,Cherbourg
+854,1,Survived,1,First Class,Lines, Miss. Mary Conover,,Female,16,Youth,0,1,1,PC 17592,39.4,D28,S,Southampton
+855,0,Not Survived,2,Second Class,Carter, Mrs. Ernest Courtenay ,Lilian Hughes),Female,44,Adult,1,0,1,244252,26,,S,Southampton
+856,1,Survived,3,Third Class,Aks, Mrs. Sam ,Leah Rosen),Female,18,Youth,0,1,1,392091,9.35,,S,Southampton
+857,1,Survived,1,First Class,Wick, Mrs. George Dennick ,Mary Hitchcock),Female,45,Adult,1,1,2,36928,164.87,,S,Southampton
+858,1,Survived,1,First Class,Daly, Mr. Peter Denis ,,Male,51,Adult,0,0,0,113055,26.55,E17,S,Southampton
+859,1,Survived,3,Third Class,Baclini, Mrs. Solomon ,Latifa Qurban),Female,24,Youth,0,3,3,2666,19.26,,C,Cherbourg
+860,0,Not Survived,3,Third Class,Razi, Mr. Raihed,,Male,30,Adult,0,0,0,2629,7.23,,C,Cherbourg
+861,0,Not Survived,3,Third Class,Hansen, Mr. Claus Peter,,Male,41,Adult,2,0,2,350026,14.11,,S,Southampton
+862,0,Not Survived,2,Second Class,Giles, Mr. Frederick Edward,,Male,21,Youth,1,0,1,28134,11.5,,S,Southampton
+863,1,Survived,1,First Class,Swift, Mrs. Frederick Joel ,Margaret Welles Barron),Female,48,Adult,0,0,0,17466,25.93,D17,S,Southampton
+864,0,Not Survived,3,Third Class,Sage," Miss. Dorothy Edith ""Dolly""",,Female,30,Adult,8,2,10,CA. 2343,69.55,,S,Southampton
+865,0,Not Survived,2,Second Class,Gill, Mr. John William,,Male,24,Youth,0,0,0,233866,13,,S,Southampton
+866,1,Survived,2,Second Class,Bystrom, Mrs. Karolina,,Female,42,Adult,0,0,0,236852,13,,S,Southampton
+867,1,Survived,2,Second Class,Duran y More, Miss. Asuncion,,Female,27,Adult,1,0,1,SC/PARIS 2149,13.86,,C,Cherbourg
+868,0,Not Survived,1,First Class,Roebling, Mr. Washington Augustus II,,Male,31,Adult,0,0,0,PC 17590,50.5,A24,S,Southampton
+869,0,Not Survived,3,Third Class,van Melkebeke, Mr. Philemon,,Male,30,Adult,0,0,0,345777,9.5,,S,Southampton
+870,1,Survived,3,Third Class,Johnson, Master. Harold Theodor,,Male,4,Children,1,1,2,347742,11.13,,S,Southampton
+871,0,Not Survived,3,Third Class,Balkic, Mr. Cerin,,Male,26,Adult,0,0,0,349248,7.9,,S,Southampton
+872,1,Survived,1,First Class,Beckwith, Mrs. Richard Leonard ,Sallie Monypeny),Female,47,Adult,1,1,2,11751,52.55,D35,S,Southampton
+873,0,Not Survived,1,First Class,Carlsson, Mr. Frans Olof,,Male,33,Adult,0,0,0,695,5,B51 B53 B55,S,Southampton
+874,0,Not Survived,3,Third Class,Vander Cruyssen, Mr. Victor,,Male,47,Adult,0,0,0,345765,9,,S,Southampton
+875,1,Survived,2,Second Class,Abelson, Mrs. Samuel ,Hannah Wizosky),Female,28,Adult,1,0,1,P/PP 3381,24,,C,Cherbourg
+876,1,Survived,3,Third Class,Najib," Miss. Adele Kiamie ""Jane""",,Female,15,Children,0,0,0,2667,7.23,,C,Cherbourg
+877,0,Not Survived,3,Third Class,Gustafsson, Mr. Alfred Ossian,,Male,20,Youth,0,0,0,7534,9.85,,S,Southampton
+878,0,Not Survived,3,Third Class,Petroff, Mr. Nedelio,,Male,19,Youth,0,0,0,349212,7.9,,S,Southampton
+879,0,Not Survived,3,Third Class,Laleff, Mr. Kristo,,Male,30,Adult,0,0,0,349217,7.9,,S,Southampton
+880,1,Survived,1,First Class,Potter, Mrs. Thomas Jr ,Lily Alexenia Wilson),Female,56,Adult,0,1,1,11767,83.16,C50,C,Cherbourg
+881,1,Survived,2,Second Class,Shelley, Mrs. William ,Imanita Parrish Hall),Female,25,Youth,0,1,1,230433,26,,S,Southampton
+882,0,Not Survived,3,Third Class,Markun, Mr. Johann,,Male,33,Adult,0,0,0,349257,7.9,,S,Southampton
+883,0,Not Survived,3,Third Class,Dahlberg, Miss. Gerda Ulrika,,Female,22,Youth,0,0,0,7552,10.52,,S,Southampton
+884,0,Not Survived,2,Second Class,Banfield, Mr. Frederick James,,Male,28,Adult,0,0,0,C.A./SOTON 34068,10.5,,S,Southampton
+885,0,Not Survived,3,Third Class,Sutehall, Mr. Henry Jr,,Male,25,Youth,0,0,0,SOTON/OQ 392076,7.05,,S,Southampton
+886,0,Not Survived,3,Third Class,Rice, Mrs. William ,Margaret Norton),Female,39,Adult,0,5,5,382652,29.13,,Q,Queenstown
+887,0,Not Survived,2,Second Class,Montvila, Rev. Juozas,,Male,27,Adult,0,0,0,211536,13,,S,Southampton
+888,1,Survived,1,First Class,Graham, Miss. Margaret Edith,,Female,19,Youth,0,0,0,112053,30,B42,S,Southampton
+889,0,Not Survived,3,Third Class,Johnston," Miss. Catherine Helen ""Carrie""",,Female,30,Adult,1,2,3,W./C. 6607,23.45,,S,Southampton
+890,1,Survived,1,First Class,Behr, Mr. Karl Howell,,Male,26,Adult,0,0,0,111369,30,C148,C,Cherbourg
+891,0,Not Survived,3,Third Class,Dooley, Mr. Patrick,,Male,32,Adult,0,0,0,370376,7.75,,Q,Queenstown
